@@ -20,6 +20,35 @@ app.get('/ping', (req, res) => {
   res.send('pong');
 });
 
+app.get('/test-betking', async (req, res) => {
+  const axios = require('axios');
+  try {
+    const response = await axios.get(
+      'https://sportsapicdn-desktop.betking.com/api/feeds/prematch/lastminute/en/1/50/',
+      {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+          'Referer': 'https://www.betking.com/sports/s/football/',
+          'Origin': 'https://www.betking.com',
+          'Accept': 'application/json, text/plain, */*',
+          'Accept-Language': 'en-NG,en;q=0.9',
+          'Sec-Fetch-Mode': 'cors',
+          'Sec-Fetch-Site': 'same-site'
+        },
+        timeout: 10000
+      }
+    );
+    res.json({ success: true, dataSize: JSON.stringify(response.data).length });
+  } catch (err) {
+    res.json({
+      success: false,
+      status: err.response?.status,
+      headers: err.response?.headers,
+      data: err.response?.data
+    });
+  }
+});
+
 let lastScanTime = null;
 
 app.listen(PORT, () => {
