@@ -1,0 +1,159 @@
+[
+  {
+    "event": "Sorana Cirstea vs Emma Raducanu",
+    "sport": "tennis_wta_queens_club_champ",
+    "commenceTime": "2026-06-11T15:30:00Z",
+    "arbPercent": "0.9902",
+    "profitMargin": "0.98%",
+    "outcomes": [
+      {
+        "name": "Emma Raducanu",
+        "odds": 2.04,
+        "book": "Betfair"
+      },
+      {
+        "name": "Sorana Cirstea",
+        "odds": 2,
+        "book": "BetAnything"
+      }
+    ]
+  },
+  {
+    "event": "Harriet Dart vs Kamilla Rakhimova",
+    "sport": "tennis_wta_queens_club_champ",
+    "commenceTime": "2026-06-11T15:30:00Z",
+    "arbPercent": "0.9911",
+    "profitMargin": "0.89%",
+    "outcomes": [
+      {
+        "name": "Harriet Dart",
+        "odds": 1.81,
+        "book": "Betfair"
+      },
+      {
+        "name": "Kamilla Rakhimova",
+        "odds": 2.28,
+        "book": "Betfair"
+      }
+    ]
+  },
+  {
+    "event": "Elena Rybakina vs Tatjana Maria",
+    "sport": "tennis_wta_queens_club_champ",
+    "commenceTime": "2026-06-11T17:00:00Z",
+    "arbPercent": "0.9863",
+    "profitMargin": "1.37%",
+    "outcomes": [
+      {
+        "name": "Elena Rybakina",
+        "odds": 1.22,
+        "book": "Unibet (SE)"
+      },
+      {
+        "name": "Tatjana Maria",
+        "odds": 6,
+        "book": "Betfair"
+      }
+    ]
+  },
+  {
+    "event": "Helsingborgs IF vs Landskrona BoIS",
+    "sport": "soccer_sweden_superettan",
+    "commenceTime": "2026-06-11T17:00:00Z",
+    "arbPercent": "0.9853",
+    "profitMargin": "1.47%",
+    "outcomes": [
+      {
+        "name": "Helsingborgs IF",
+        "odds": 2.74,
+        "book": "Betfair"
+      },
+      {
+        "name": "Landskrona BoIS",
+        "odds": 2.8,
+        "book": "Betfair"
+      },
+      {
+        "name": "Draw",
+        "odds": 3.8,
+        "book": "Betfair"
+      }
+    ]
+  },
+  {
+    "event": "Jaqueline Cristian vs Katie Boulter",
+    "sport": "tennis_wta_queens_club_champ",
+    "commenceTime": "2026-06-11T17:00:00Z",
+    "arbPercent": "0.9912",
+    "profitMargin": "0.88%",
+    "outcomes": [
+      {
+        "name": "Jaqueline Cristian",
+        "odds": 3,
+        "book": "Betfair"
+      },
+      {
+        "name": "Katie Boulter",
+        "odds": 1.52,
+        "book": "Betfair"
+      }
+    ]
+  },
+  {
+    "event": "Miami Marlins vs Arizona Diamondbacks",
+    "sport": "baseball_mlb",
+    "commenceTime": "2026-06-11T17:11:00Z",
+    "arbPercent": "0.9925",
+    "profitMargin": "0.75%",
+    "outcomes": [
+      {
+        "name": "Arizona Diamondbacks",
+        "odds": 2.12,
+        "book": "Betfair"
+      },
+      {
+        "name": "Miami Marlins",
+        "odds": 1.92,
+        "book": "Betfair"
+      }
+    ]
+  },
+  {
+    "event": "Detroit Tigers vs Minnesota Twins",
+    "sport": "baseball_mlb",
+    "commenceTime": "2026-06-11T17:11:00Z",
+    "arbPercent": "0.9939",
+    "profitMargin": "0.61%",
+    "outcomes": [
+      {
+        "name": "Detroit Tigers",
+        "odds": 1.84,
+        "book": "Matchbook"
+      },
+      {
+        "name": "Minnesota Twins",
+        "odds": 2.22,
+        "book": "Betfair"
+      }
+    ]
+  },
+  {
+    "event": "New York Mets vs St. Louis Cardinals",
+    "sport": "baseball_mlb",
+    "commenceTime": "2026-06-11T17:11:00Z",
+    "arbPercent": "0.9955",
+    "profitMargin": "0.45%",
+    "outcomes": [
+      {
+        "name": "New York Mets",
+        "odds": 1.76,
+        "book": "Matchbook"
+      },
+      {
+        "name": "St. Louis Cardinals",
+        "odds": 2.34,
+        "book": "Matchbook"
+      }
+    ]
+  }
+]

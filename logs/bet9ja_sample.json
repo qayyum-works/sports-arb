@@ -1,0 +1,5465 @@
+{
+  "R": "OK",
+  "D": {
+    "MK": [
+      {
+        "ID": "S_1X2",
+        "NAME": "1X2",
+        "P": "1",
+        "VW": "0",
+        "GCAT": "POPULAR",
+        "SV": null,
+        "CNT": "GR",
+        "CNTLABEL": "Generic Result",
+        "SGN": [
+          "1",
+          "X",
+          "2"
+        ],
+        "SGNK": [
+          "1",
+          "X",
+          "2"
+        ],
+        "SIGN": {
+          "1": {
+            "K": "1",
+            "S": "1",
+            "D": "S_DC_X2"
+          },
+          "2": {
+            "K": "2",
+            "S": "2",
+            "D": "S_DC_1X"
+          },
+          "X": {
+            "K": "X",
+            "S": "X",
+            "D": "S_DC_12"
+          }
+        }
+      }
+    ],
+    "G": {
+      "1004077": {
+        "N": "Chile Primera Division",
+        "SG_P": 100,
+        "SG": "Chile",
+        "P": 1,
+        "SID": "1",
+        "SGID": "11063"
+      },
+      "1315470": {
+        "N": "NSW NPL 1",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 12,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "1329525": {
+        "N": "Esiliiga",
+        "SG_P": 100,
+        "SG": "Estonia",
+        "P": 101,
+        "SID": "1",
+        "SGID": "12021"
+      },
+      "1331280": {
+        "N": "Queensland NPL",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 15,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "1332088": {
+        "N": "A Lyga",
+        "SG_P": 100,
+        "SG": "Lithuania",
+        "P": 100,
+        "SID": "1",
+        "SGID": "12039"
+      },
+      "1335326": {
+        "N": "Premier League",
+        "SG_P": 100,
+        "SG": "Faroe Islands",
+        "P": 90,
+        "SID": "1",
+        "SGID": "12159"
+      },
+      "1340265": {
+        "N": "Division Profesional",
+        "SG_P": 100,
+        "SG": "Bolivia",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11482"
+      },
+      "1346185": {
+        "N": "Vysshaya League",
+        "SG_P": 100,
+        "SG": "Belarus",
+        "P": 100,
+        "SID": "1",
+        "SGID": "12136"
+      },
+      "1346407": {
+        "N": "Premier League",
+        "SG_P": 100,
+        "SG": "Kazakhstan",
+        "P": 50,
+        "SID": "1",
+        "SGID": "12101"
+      },
+      "1347219": {
+        "N": "Queensland NPL, Women",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 110,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "1348873": {
+        "N": "Premium Liiga",
+        "SG_P": 100,
+        "SG": "Estonia",
+        "P": 100,
+        "SID": "1",
+        "SGID": "12021"
+      },
+      "1349174": {
+        "N": "Virsliga",
+        "SG_P": 100,
+        "SG": "Latvia",
+        "P": 99,
+        "SID": "1",
+        "SGID": "12143"
+      },
+      "1361446": {
+        "N": "Western Australia NPL",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 25,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "1361601": {
+        "N": "Tasmania NPL",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 21,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "1364198": {
+        "N": "I Lyga",
+        "SG_P": 100,
+        "SG": "Lithuania",
+        "P": 100,
+        "SID": "1",
+        "SGID": "12039"
+      },
+      "1370426": {
+        "N": "First Division",
+        "SG_P": 100,
+        "SG": "Ireland",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11893"
+      },
+      "1375233": {
+        "N": "Northern NSW NPL",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "1378962": {
+        "N": "Nadeshiko League, Div. 1, Women",
+        "SG_P": 100,
+        "SG": "Japan",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11072"
+      },
+      "1388573": {
+        "N": "Elitedivisionen, Women",
+        "SG_P": 100,
+        "SG": "Denmark",
+        "P": 100,
+        "SID": "1",
+        "SGID": "10940"
+      },
+      "1400995": {
+        "N": "South Australia NPL",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 19,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "1400996": {
+        "N": "South Australia NPL, Women",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 35,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "1402886": {
+        "N": "Capital NPL 1",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 10,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "1408820": {
+        "N": "Veikkausliiga",
+        "SG_P": 100,
+        "SG": "Finland",
+        "P": 10,
+        "SID": "1",
+        "SGID": "11677"
+      },
+      "1416783": {
+        "N": "Damallsvenskan, Women",
+        "SG_P": 100,
+        "SG": "Sweden",
+        "P": 101,
+        "SID": "1",
+        "SGID": "11645"
+      },
+      "1432701": {
+        "N": "USL, Championship",
+        "SG_P": 100,
+        "SG": "USA",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11965"
+      },
+      "1455180": {
+        "N": "Ykkosliiga",
+        "SG_P": 100,
+        "SG": "Finland",
+        "P": 50,
+        "SID": "1",
+        "SGID": "11677"
+      },
+      "1458590": {
+        "N": "1. deild",
+        "SG_P": 100,
+        "SG": "Iceland",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11802"
+      },
+      "1458996": {
+        "N": "USL, League Two",
+        "SG_P": 100,
+        "SG": "USA",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11965"
+      },
+      "1464142": {
+        "N": "National Premier Soccer League",
+        "SG_P": 100,
+        "SG": "USA",
+        "P": 101,
+        "SID": "1",
+        "SGID": "11965"
+      },
+      "1508114": {
+        "N": "Brasileiro Serie C",
+        "SG_P": 100,
+        "SG": "Brazil",
+        "P": 98,
+        "SID": "1",
+        "SGID": "10987"
+      },
+      "1513082": {
+        "N": "Segunda Division",
+        "SG_P": 100,
+        "SG": "Uruguay",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11779"
+      },
+      "2088590": {
+        "N": "Primera Nacional",
+        "SG_P": 100,
+        "SG": "Argentina",
+        "P": 11,
+        "SID": "1",
+        "SGID": "11451"
+      },
+      "2118465": {
+        "N": "South Australia State League 1",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 20,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2214371": {
+        "N": "Victoria NPL 2",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 23,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2252278": {
+        "N": "FIFA World Cup 2026",
+        "SG_P": 2,
+        "SG": "International",
+        "P": 0,
+        "SID": "1",
+        "SGID": "11463"
+      },
+      "2254950": {
+        "N": "3rd Division",
+        "SG_P": 100,
+        "SG": "Denmark",
+        "P": 100,
+        "SID": "1",
+        "SGID": "10940"
+      },
+      "2254951": {
+        "N": "3rd Division, Relegation Round",
+        "SG_P": 100,
+        "SG": "Denmark",
+        "P": 100,
+        "SID": "1",
+        "SGID": "10940"
+      },
+      "2271135": {
+        "N": "U20 NSW NPL 1",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 27,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2274856": {
+        "N": "NSW NPL 2",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 13,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2307710": {
+        "N": "Queensland Premier League 1",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 16,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2313424": {
+        "N": "Queensland Premier League 3",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 18,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2316777": {
+        "N": "U23 Queensland NPL",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 26,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2319984": {
+        "N": "NSW NPL 3",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 14,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2387820": {
+        "N": "Queensland Premier League 2",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 17,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2395571": {
+        "N": "West State League 1",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 26,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2403490": {
+        "N": "Queensland Premier League 1, Women",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 34,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2416693": {
+        "N": "Western Australia NPL, Women",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 110,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2477228": {
+        "N": "Tasmania Super League, Women",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2553202": {
+        "N": "Northern NSW NPL, Reserves",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "2617733": {
+        "N": "South Australia NPL, Women, Reserves",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "3119357": {
+        "N": "Primera C",
+        "SG_P": 100,
+        "SG": "Argentina",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11451"
+      },
+      "3350255": {
+        "N": "Elitettan, Women",
+        "SG_P": 100,
+        "SG": "Sweden",
+        "P": 110,
+        "SID": "1",
+        "SGID": "11645"
+      },
+      "3351137": {
+        "N": "South Australia NPL, Reserves",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "3416425": {
+        "N": "U23 Queensland Premier League 1",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 27,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "3481448": {
+        "N": "U20 NSW NPL 2",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 39,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "3671188": {
+        "N": "West State League 1, Reserves",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "3741619": {
+        "N": "2. Liga",
+        "SG_P": 100,
+        "SG": "Russia",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11498"
+      },
+      "4593513": {
+        "N": "Primera Division A, Women, Apertura",
+        "SG_P": 100,
+        "SG": "Argentina",
+        "P": 103,
+        "SID": "1",
+        "SGID": "11451"
+      },
+      "4603989": {
+        "N": "South Australia State League 1, Reserves",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "4727543": {
+        "N": "Ykkonen",
+        "SG_P": 100,
+        "SG": "Finland",
+        "P": 50,
+        "SID": "1",
+        "SGID": "11677"
+      },
+      "5019412": {
+        "N": "U23 Victoria NPL",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 28,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "6554949": {
+        "N": "U23 Victoria Premier League 1",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "6966379": {
+        "N": "U23 Capital NPL 1",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "6973506": {
+        "N": "Regional Football Champions League",
+        "SG_P": 100,
+        "SG": "Japan",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11072"
+      },
+      "7183907": {
+        "N": "Super Cup, Women",
+        "SG_P": 100,
+        "SG": "Russia",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11498"
+      },
+      "7547118": {
+        "N": "U23 Western Australia NPL",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 29,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "8722198": {
+        "N": "Primera B",
+        "SG_P": 100,
+        "SG": "Argentina",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11451"
+      },
+      "8775002": {
+        "N": "Northern NSW NPL, Women",
+        "SG_P": 100,
+        "SG": "Australia",
+        "P": 110,
+        "SID": "1",
+        "SGID": "11462"
+      },
+      "9010473": {
+        "N": "Division 2, Vastra Gotaland",
+        "SG_P": 100,
+        "SG": "Sweden",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11645"
+      },
+      "9010474": {
+        "N": "Division 2, Sodra Svealand",
+        "SG_P": 100,
+        "SG": "Sweden",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11645"
+      },
+      "9020808": {
+        "N": "Division 2, Sodra Gotaland",
+        "SG_P": 100,
+        "SG": "Sweden",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11645"
+      },
+      "9020809": {
+        "N": "Division 2, Norra Svealand",
+        "SG_P": 100,
+        "SG": "Sweden",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11645"
+      },
+      "9020810": {
+        "N": "Division 2, Norra Gotaland",
+        "SG_P": 100,
+        "SG": "Sweden",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11645"
+      },
+      "9040200": {
+        "N": "Ettan, Norra",
+        "SG_P": 100,
+        "SG": "Sweden",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11645"
+      },
+      "9055087": {
+        "N": "Ettan, Sodra",
+        "SG_P": 100,
+        "SG": "Sweden",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11645"
+      },
+      "9103166": {
+        "N": "Division 2, Norrland Vaar Norra",
+        "SG_P": 100,
+        "SG": "Sweden",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11645"
+      },
+      "9140379": {
+        "N": "Kakkonen",
+        "SG_P": 100,
+        "SG": "Finland",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11677"
+      },
+      "9494928": {
+        "N": "Copa de la Liga",
+        "SG_P": 100,
+        "SG": "Peru",
+        "P": 100,
+        "SID": "1",
+        "SGID": "11480"
+      }
+    },
+    "E": [
+      {
+        "ID": 789358101,
+        "D": "2026-06-12 23:00:00",
+        "N": "CA Nacional Potosi - Cdt Real Oruro",
+        "C": "2706",
+        "EXTID": "71975644",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.36",
+          "S_1X2_X": "5.25",
+          "S_1X2_2": "6.4"
+        },
+        "MKNUM": 138,
+        "GID": 1340265,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790456780,
+        "D": "2026-06-12 23:00:00",
+        "N": "Long Island Rough Riders - FC Motown STA",
+        "C": "1819",
+        "EXTID": "69091714",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3",
+          "S_1X2_X": "4",
+          "S_1X2_2": "1.95"
+        },
+        "MKNUM": 54,
+        "GID": 1458996,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790456781,
+        "D": "2026-06-12 23:00:00",
+        "N": "Midlakes United - West Seattle Junction FC",
+        "C": "1945",
+        "EXTID": "69091718",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.42",
+          "S_1X2_X": "3.75",
+          "S_1X2_2": "2.4"
+        },
+        "MKNUM": 54,
+        "GID": 1458996,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789440853,
+        "D": "2026-06-12 23:00:00",
+        "N": "CSD San Martin - Villa Dalmine",
+        "C": "2218",
+        "EXTID": "67119414",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.66",
+          "S_1X2_X": "2.8",
+          "S_1X2_2": "2.87"
+        },
+        "MKNUM": 138,
+        "GID": 8722198,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790456782,
+        "D": "2026-06-12 23:00:00",
+        "N": "FC Pride Elite - Wisconsin Conquerors FC",
+        "C": "2109",
+        "EXTID": "71220710",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.05",
+          "S_1X2_X": "8.6",
+          "S_1X2_2": "15"
+        },
+        "MKNUM": 9,
+        "GID": 1464142,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 785104607,
+        "D": "2026-06-13 00:00:00",
+        "N": "A. Italiano - La Serena",
+        "C": "1769",
+        "EXTID": "67681902",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": true,
+        "O": {
+          "S_1X2_1": "1.95",
+          "S_1X2_X": "3.55",
+          "S_1X2_2": "3.65"
+        },
+        "MKNUM": 140,
+        "GID": 1004077,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 692741120,
+        "D": "2026-06-13 01:00:00",
+        "N": "USA - Paraguay",
+        "C": "1401",
+        "EXTID": "66456940",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.98",
+          "S_1X2_X": "3.5",
+          "S_1X2_2": "4.3"
+        },
+        "MKNUM": 277,
+        "GID": 2252278,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790456766,
+        "D": "2026-06-13 01:00:00",
+        "N": "Caroline Springs George Cross FC - Dandenong Thunder FC",
+        "C": "1285",
+        "EXTID": "71567404",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.26",
+          "S_1X2_X": "5.5",
+          "S_1X2_2": "7"
+        },
+        "MKNUM": 16,
+        "GID": 5019412,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790456770,
+        "D": "2026-06-13 01:00:00",
+        "N": "Club Atleltico Celeste - Kawazoe Club",
+        "C": "1326",
+        "EXTID": "71962800",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.35",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "2.52"
+        },
+        "MKNUM": 137,
+        "GID": 6973506,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141195,
+        "D": "2026-06-13 01:00:00",
+        "N": "Pirata - Universitario de Deportes",
+        "C": "2757",
+        "EXTID": "71665002",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.08",
+          "S_1X2_X": "3.75",
+          "S_1X2_2": "2.98"
+        },
+        "MKNUM": 95,
+        "GID": 9494928,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790252565,
+        "D": "2026-06-13 01:45:00",
+        "N": "Adelaide Comets FC Reserves - West Adelaide Reserve",
+        "C": "1682",
+        "EXTID": "68051008",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.55",
+          "S_1X2_X": "4.85",
+          "S_1X2_2": "4.15"
+        },
+        "MKNUM": 54,
+        "GID": 2617733,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790285315,
+        "D": "2026-06-13 02:00:00",
+        "N": "Adamstown Rosebud FC Reserve - Broadmeadow Magic FC Reserve",
+        "C": "1903",
+        "EXTID": "67808492",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.45",
+          "S_1X2_X": "4.1",
+          "S_1X2_2": "2.26"
+        },
+        "MKNUM": 54,
+        "GID": 2553202,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790456768,
+        "D": "2026-06-13 02:00:00",
+        "N": "Weston Bears FC - Belmont Swansea United FC Reserves",
+        "C": "1315",
+        "EXTID": "67808494",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.54",
+          "S_1X2_X": "5.1",
+          "S_1X2_2": "4.05"
+        },
+        "MKNUM": 16,
+        "GID": 2553202,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790320213,
+        "D": "2026-06-13 02:15:00",
+        "N": "Glenorchy Knights - Launceston Utd",
+        "C": "3111",
+        "EXTID": "68686944",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.02",
+          "S_1X2_X": "3.8",
+          "S_1X2_2": "2.8"
+        },
+        "MKNUM": 54,
+        "GID": 2477228,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790285400,
+        "D": "2026-06-13 02:15:00",
+        "N": "North Sunshine Eagles FC - FC Melbourne Srbija",
+        "C": "2033",
+        "EXTID": "68160978",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "4.2",
+          "S_1X2_X": "4.95",
+          "S_1X2_2": "1.48"
+        },
+        "MKNUM": 54,
+        "GID": 6554949,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141234,
+        "D": "2026-06-13 02:30:00",
+        "N": "Robina City - Holland Park Hawks",
+        "C": "2813",
+        "EXTID": "71952804",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.44",
+          "S_1X2_X": "4.75",
+          "S_1X2_2": "4.8"
+        },
+        "MKNUM": 54,
+        "GID": 3416425,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790320195,
+        "D": "2026-06-13 02:30:00",
+        "N": "Eastern United Reserve - Adelaide Olympic Reserve",
+        "C": "2977",
+        "EXTID": "68050340",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "15",
+          "S_1X2_X": "7.4",
+          "S_1X2_2": "1.09"
+        },
+        "MKNUM": 16,
+        "GID": 4603989,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790337365,
+        "D": "2026-06-13 02:30:00",
+        "N": "Langwarrin SC - Manningham United Blues FC",
+        "C": "1156",
+        "EXTID": "68160980",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "5.9",
+          "S_1X2_X": "5.3",
+          "S_1X2_2": "1.32"
+        },
+        "MKNUM": 54,
+        "GID": 6554949,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790280396,
+        "D": "2026-06-13 02:45:00",
+        "N": "Croydon Kings - Playford City Reserve",
+        "C": "2231",
+        "EXTID": "68050068",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.19",
+          "S_1X2_X": "6.4",
+          "S_1X2_2": "10.25"
+        },
+        "MKNUM": 54,
+        "GID": 3351137,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790456764,
+        "D": "2026-06-13 02:45:00",
+        "N": "Brindabella Blues FC - Belconnen United FC",
+        "C": "1281",
+        "EXTID": "69195858",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.55",
+          "S_1X2_X": "4.15",
+          "S_1X2_2": "1.68"
+        },
+        "MKNUM": 16,
+        "GID": 6966379,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668744,
+        "D": "2026-06-13 03:00:00",
+        "N": "Gold Coast United FC - Brisbane City",
+        "C": "1516",
+        "EXTID": "71576094",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.15",
+          "S_1X2_X": "4.2",
+          "S_1X2_2": "1.8"
+        },
+        "MKNUM": 54,
+        "GID": 2316777,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789649253,
+        "D": "2026-06-13 03:00:00",
+        "N": "University of NSW - St George U20",
+        "C": "1290",
+        "EXTID": "67693112",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.72",
+          "S_1X2_X": "4.15",
+          "S_1X2_2": "3.4"
+        },
+        "MKNUM": 54,
+        "GID": 2271135,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668732,
+        "D": "2026-06-13 03:00:00",
+        "N": "Fremantle City FC - Balcatta Etna FC",
+        "C": "1337",
+        "EXTID": "69115782",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.26",
+          "S_1X2_X": "5.5",
+          "S_1X2_2": "7.1"
+        },
+        "MKNUM": 54,
+        "GID": 7547118,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790280397,
+        "D": "2026-06-13 03:15:00",
+        "N": "Para Hills Knights Reserve - FK Beograd Reserve",
+        "C": "2499",
+        "EXTID": "68050072",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.3",
+          "S_1X2_X": "5.9",
+          "S_1X2_2": "6.3"
+        },
+        "MKNUM": 54,
+        "GID": 3351137,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790280402,
+        "D": "2026-06-13 03:15:00",
+        "N": "Adelaide Cobras Reserves - Cumberland United Reserve",
+        "C": "2915",
+        "EXTID": "68050342",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "5.9",
+          "S_1X2_X": "5.05",
+          "S_1X2_2": "1.34"
+        },
+        "MKNUM": 16,
+        "GID": 4603989,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790320151,
+        "D": "2026-06-13 03:15:00",
+        "N": "Adelaide Croatia Raiders Reserve - South Adelaide Reserve",
+        "C": "2949",
+        "EXTID": "68050344",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.1",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "2.7"
+        },
+        "MKNUM": 16,
+        "GID": 4603989,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790320198,
+        "D": "2026-06-13 03:15:00",
+        "N": "Adelaide Blue Eagles Reserves - Salisbury United Reserve",
+        "C": "3043",
+        "EXTID": "68050346",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.14",
+          "S_1X2_X": "6.5",
+          "S_1X2_2": "12"
+        },
+        "MKNUM": 16,
+        "GID": 4603989,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790456769,
+        "D": "2026-06-13 03:15:00",
+        "N": "Fulham Utd Reserve - Adelaide Atletico Victory Reserves",
+        "C": "1318",
+        "EXTID": "68050348",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.24",
+          "S_1X2_X": "3.8",
+          "S_1X2_2": "2.46"
+        },
+        "MKNUM": 16,
+        "GID": 4603989,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790285317,
+        "D": "2026-06-13 03:30:00",
+        "N": "Salisbury Inter - Metrostars",
+        "C": "2004",
+        "EXTID": "68049830",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.1",
+          "S_1X2_X": "8.4",
+          "S_1X2_2": "15"
+        },
+        "MKNUM": 54,
+        "GID": 1400996,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790280408,
+        "D": "2026-06-13 04:00:00",
+        "N": "Western United FC Youth - Port Melbourne Sharks",
+        "C": "2937",
+        "EXTID": "71635874",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.43",
+          "S_1X2_X": "4.8",
+          "S_1X2_2": "5.3"
+        },
+        "MKNUM": 54,
+        "GID": 2214371,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141207,
+        "D": "2026-06-13 04:00:00",
+        "N": "Adamstown Rosebud - Broadmeadow Magic",
+        "C": "2791",
+        "EXTID": "67807416",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "4.95",
+          "S_1X2_X": "4.4",
+          "S_1X2_2": "1.5"
+        },
+        "MKNUM": 54,
+        "GID": 1375233,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141213,
+        "D": "2026-06-13 04:00:00",
+        "N": "Weston Workers - Belmont Swansea Utd",
+        "C": "2800",
+        "EXTID": "67807418",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.9",
+          "S_1X2_X": "4",
+          "S_1X2_2": "3.1"
+        },
+        "MKNUM": 54,
+        "GID": 1375233,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790320154,
+        "D": "2026-06-13 04:00:00",
+        "N": "Ngu Nagoya - Iga Kunoichi",
+        "C": "2951",
+        "EXTID": "68728674",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.98",
+          "S_1X2_X": "3.35",
+          "S_1X2_2": "3.4"
+        },
+        "MKNUM": 54,
+        "GID": 1378962,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790320165,
+        "D": "2026-06-13 04:00:00",
+        "N": "Vonds Ichihara FC - Okayama Yunogo Belle",
+        "C": "2952",
+        "EXTID": "68728680",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "4.9",
+          "S_1X2_X": "3.8",
+          "S_1X2_2": "1.58"
+        },
+        "MKNUM": 54,
+        "GID": 1378962,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790320194,
+        "D": "2026-06-13 04:00:00",
+        "N": "Sfida Setagaya FC - Harima Albion",
+        "C": "2973",
+        "EXTID": "68728672",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.98",
+          "S_1X2_X": "3.35",
+          "S_1X2_2": "3.4"
+        },
+        "MKNUM": 54,
+        "GID": 1378962,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790252357,
+        "D": "2026-06-13 04:00:00",
+        "N": "Ska-Khabarovsk-2 - Salyut Belgorod",
+        "C": "1616",
+        "EXTID": "70228310",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.96",
+          "S_1X2_X": "3.05",
+          "S_1X2_2": "2.22"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242889,
+        "D": "2026-06-13 04:00:00",
+        "N": "Newcastle Olympic FC - New Lambton",
+        "C": "3133",
+        "EXTID": "67807840",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "11.25",
+          "S_1X2_X": "7.7",
+          "S_1X2_2": "1.14"
+        },
+        "MKNUM": 54,
+        "GID": 8775002,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789676418,
+        "D": "2026-06-13 04:30:00",
+        "N": "Robina City - Holland Park Hawks",
+        "C": "1437",
+        "EXTID": "71650516",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.6",
+          "S_1X2_X": "4.5",
+          "S_1X2_2": "4.05"
+        },
+        "MKNUM": 54,
+        "GID": 2307710,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141237,
+        "D": "2026-06-13 04:30:00",
+        "N": "Hobart Zebras - South Hobart",
+        "C": "2819",
+        "EXTID": "68680084",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "12",
+          "S_1X2_X": "7.5",
+          "S_1X2_2": "1.14"
+        },
+        "MKNUM": 54,
+        "GID": 1361601,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790285316,
+        "D": "2026-06-13 04:30:00",
+        "N": "Maitland FC Reserve - Valentine FC Reserve",
+        "C": "1984",
+        "EXTID": "67808498",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.67",
+          "S_1X2_X": "3.95",
+          "S_1X2_2": "2.14"
+        },
+        "MKNUM": 54,
+        "GID": 2553202,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790285399,
+        "D": "2026-06-13 04:30:00",
+        "N": "Edgeworth FC Reserve - Cooks Hill United FC Reserve",
+        "C": "2027",
+        "EXTID": "67808496",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.9",
+          "S_1X2_X": "4.3",
+          "S_1X2_2": "1.65"
+        },
+        "MKNUM": 54,
+        "GID": 2553202,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141197,
+        "D": "2026-06-13 05:00:00",
+        "N": "O Connor Knights - Tuggeranong",
+        "C": "2787",
+        "EXTID": "69194964",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.56",
+          "S_1X2_X": "4",
+          "S_1X2_2": "2.2"
+        },
+        "MKNUM": 54,
+        "GID": 1402886,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141200,
+        "D": "2026-06-13 05:00:00",
+        "N": "Brindabella Blues - Belconnen Utd.",
+        "C": "2789",
+        "EXTID": "69194960",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.4",
+          "S_1X2_X": "4.2",
+          "S_1X2_2": "1.77"
+        },
+        "MKNUM": 54,
+        "GID": 1402886,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141206,
+        "D": "2026-06-13 05:00:00",
+        "N": "Queanbeyan City - Monaro",
+        "C": "2790",
+        "EXTID": "69194966",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.4",
+          "S_1X2_X": "4",
+          "S_1X2_2": "1.8"
+        },
+        "MKNUM": 54,
+        "GID": 1402886,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790145478,
+        "D": "2026-06-13 05:00:00",
+        "N": "Canberra White Eagles - Canberra FC",
+        "C": "2961",
+        "EXTID": "69194962",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "19",
+          "S_1X2_X": "11",
+          "S_1X2_2": "1.05"
+        },
+        "MKNUM": 7,
+        "GID": 1402886,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789649247,
+        "D": "2026-06-13 05:00:00",
+        "N": "Western Sydney Wanderers Reserves - St George City",
+        "C": "1190",
+        "EXTID": "67690918",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.26",
+          "S_1X2_X": "3.2",
+          "S_1X2_2": "2.96"
+        },
+        "MKNUM": 137,
+        "GID": 1315470,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789649293,
+        "D": "2026-06-13 05:00:00",
+        "N": "University of Nsw - St George Saints",
+        "C": "2776",
+        "EXTID": "67690920",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.02",
+          "S_1X2_X": "3.25",
+          "S_1X2_2": "3.4"
+        },
+        "MKNUM": 137,
+        "GID": 1315470,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141231,
+        "D": "2026-06-13 05:00:00",
+        "N": "Croydon Kings - Playford City",
+        "C": "2811",
+        "EXTID": "68048906",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.77",
+          "S_1X2_X": "3.5",
+          "S_1X2_2": "2.24"
+        },
+        "MKNUM": 54,
+        "GID": 1400995,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668733,
+        "D": "2026-06-13 05:00:00",
+        "N": "Stirling Macedonia FC - Sorrento FC",
+        "C": "1391",
+        "EXTID": "69115780",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.3",
+          "S_1X2_X": "3.9",
+          "S_1X2_2": "2.36"
+        },
+        "MKNUM": 54,
+        "GID": 7547118,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668736,
+        "D": "2026-06-13 05:00:00",
+        "N": "Armadale SC - Bayswater City SC",
+        "C": "1415",
+        "EXTID": "69115784",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "5.3",
+          "S_1X2_X": "5.3",
+          "S_1X2_2": "1.35"
+        },
+        "MKNUM": 54,
+        "GID": 7547118,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668737,
+        "D": "2026-06-13 05:00:00",
+        "N": "Dianella White Eagles SC U23 - Western Knights SC",
+        "C": "1417",
+        "EXTID": "69115790",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.74",
+          "S_1X2_X": "3.95",
+          "S_1X2_2": "3.5"
+        },
+        "MKNUM": 54,
+        "GID": 7547118,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242883,
+        "D": "2026-06-13 05:00:00",
+        "N": "North Eastern Metrostars SC Reserves - Sturt Lions Reserve",
+        "C": "3132",
+        "EXTID": "68050074",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.34",
+          "S_1X2_X": "5.1",
+          "S_1X2_2": "6.5"
+        },
+        "MKNUM": 54,
+        "GID": 3351137,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790145492,
+        "D": "2026-06-13 05:00:00",
+        "N": "Subiaco AFC Reserve - Mandurah City Reserves",
+        "C": "2967",
+        "EXTID": "69866498",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "5",
+          "S_1X2_X": "4.35",
+          "S_1X2_2": "1.46"
+        },
+        "MKNUM": 54,
+        "GID": 3671188,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790177972,
+        "D": "2026-06-13 05:00:00",
+        "N": "Quinns Reserve - Curtin University SC Reserves",
+        "C": "1078",
+        "EXTID": "69768216",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.27",
+          "S_1X2_X": "5.25",
+          "S_1X2_2": "7.3"
+        },
+        "MKNUM": 54,
+        "GID": 3671188,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790177973,
+        "D": "2026-06-13 05:00:00",
+        "N": "Jooondalop City Reserve - Gwelup Croatia Reserves",
+        "C": "1112",
+        "EXTID": "69768222",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.33",
+          "S_1X2_X": "3.5",
+          "S_1X2_2": "2.5"
+        },
+        "MKNUM": 54,
+        "GID": 3671188,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790177974,
+        "D": "2026-06-13 05:00:00",
+        "N": "UWA Nedlands Reserves - Floreat Athena FC Reserves",
+        "C": "1136",
+        "EXTID": "69768220",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.98",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "2.94"
+        },
+        "MKNUM": 54,
+        "GID": 3671188,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790177976,
+        "D": "2026-06-13 05:00:00",
+        "N": "Murdoch University Melville FC Reserves - Cockburn City SC Reserves",
+        "C": "1203",
+        "EXTID": "69768224",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.13",
+          "S_1X2_X": "3.6",
+          "S_1X2_2": "2.72"
+        },
+        "MKNUM": 54,
+        "GID": 3671188,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790337360,
+        "D": "2026-06-13 05:00:00",
+        "N": "The Cove FC Reserves - Modbury Reserve",
+        "C": "1129",
+        "EXTID": "68050350",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.1",
+          "S_1X2_X": "3.75",
+          "S_1X2_2": "1.9"
+        },
+        "MKNUM": 16,
+        "GID": 4603989,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789666454,
+        "D": "2026-06-13 05:00:00",
+        "N": "Fremantle City - Balcatta",
+        "C": "2846",
+        "EXTID": "69767388",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.96",
+          "S_1X2_X": "3.8",
+          "S_1X2_2": "3.1"
+        },
+        "MKNUM": 54,
+        "GID": 2416693,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141230,
+        "D": "2026-06-13 05:30:00",
+        "N": "Para Hills - FK Beograd",
+        "C": "2810",
+        "EXTID": "68048908",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "12.75",
+          "S_1X2_X": "6.7",
+          "S_1X2_2": "1.15"
+        },
+        "MKNUM": 54,
+        "GID": 1400995,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790337362,
+        "D": "2026-06-13 05:30:00",
+        "N": "Fulham Utd - Adelaide Atletico VSC",
+        "C": "1142",
+        "EXTID": "68051656",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.02",
+          "S_1X2_X": "3.6",
+          "S_1X2_2": "3.15"
+        },
+        "MKNUM": 54,
+        "GID": 2118465,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789666455,
+        "D": "2026-06-13 05:45:00",
+        "N": "Gold Coast Knights FC - Eastern Suburbs",
+        "C": "2847",
+        "EXTID": "71793118",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.98",
+          "S_1X2_X": "3.9",
+          "S_1X2_2": "2.82"
+        },
+        "MKNUM": 54,
+        "GID": 2316777,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789649254,
+        "D": "2026-06-13 06:00:00",
+        "N": "Wollongong Wolves U20 - APIA Leichhardt Tigers",
+        "C": "1313",
+        "EXTID": "67693118",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "4.5",
+          "S_1X2_X": "4.25",
+          "S_1X2_2": "1.52"
+        },
+        "MKNUM": 54,
+        "GID": 2271135,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790177969,
+        "D": "2026-06-13 06:00:00",
+        "N": "Caboolture - The Gap",
+        "C": "1054",
+        "EXTID": "67904976",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.19",
+          "S_1X2_X": "6.6",
+          "S_1X2_2": "9.2"
+        },
+        "MKNUM": 7,
+        "GID": 2403490,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790337363,
+        "D": "2026-06-13 06:15:00",
+        "N": "Adelaide Comets Reserves - West Adelaide SC Reserve",
+        "C": "1145",
+        "EXTID": "68050076",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.45",
+          "S_1X2_X": "3.8",
+          "S_1X2_2": "2.35"
+        },
+        "MKNUM": 5,
+        "GID": 3351137,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668754,
+        "D": "2026-06-13 06:30:00",
+        "N": "Northern Tigers - Inter Lions",
+        "C": "2017",
+        "EXTID": "67691662",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.5",
+          "S_1X2_X": "4.35",
+          "S_1X2_2": "4.95"
+        },
+        "MKNUM": 54,
+        "GID": 2274856,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789676419,
+        "D": "2026-06-13 06:30:00",
+        "N": "Macarthur - Hills Utd Brumbies",
+        "C": "1759",
+        "EXTID": "67691660",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.46",
+          "S_1X2_X": "3.65",
+          "S_1X2_2": "2.4"
+        },
+        "MKNUM": 54,
+        "GID": 2274856,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141208,
+        "D": "2026-06-13 06:30:00",
+        "N": "Maitland - Valentine",
+        "C": "2792",
+        "EXTID": "67807422",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.35",
+          "S_1X2_X": "5.4",
+          "S_1X2_2": "6"
+        },
+        "MKNUM": 54,
+        "GID": 1375233,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141211,
+        "D": "2026-06-13 06:30:00",
+        "N": "Edgeworth - Cooks Hill Utd",
+        "C": "2793",
+        "EXTID": "67807420",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.5",
+          "S_1X2_X": "4.5",
+          "S_1X2_2": "4.8"
+        },
+        "MKNUM": 54,
+        "GID": 1375233,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141489,
+        "D": "2026-06-13 06:45:00",
+        "N": "Glenorchy Knights - Riverside Olympic",
+        "C": "2837",
+        "EXTID": "68680086",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.8",
+          "S_1X2_X": "4.05",
+          "S_1X2_2": "3.4"
+        },
+        "MKNUM": 54,
+        "GID": 1361601,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790145476,
+        "D": "2026-06-13 06:45:00",
+        "N": "Launceston Utd Soccer Club - Devonport City",
+        "C": "2959",
+        "EXTID": "68680088",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "23",
+          "S_1X2_X": "14",
+          "S_1X2_2": "1.02"
+        },
+        "MKNUM": 7,
+        "GID": 1361601,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668753,
+        "D": "2026-06-13 07:00:00",
+        "N": "Hurstville - MT Druitt Town Rangers",
+        "C": "2014",
+        "EXTID": "67691664",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.78",
+          "S_1X2_X": "3.9",
+          "S_1X2_2": "3.6"
+        },
+        "MKNUM": 54,
+        "GID": 2274856,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668756,
+        "D": "2026-06-13 07:00:00",
+        "N": "Bankstown Berries - Newcastle Jets Youth",
+        "C": "2018",
+        "EXTID": "67691666",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.18",
+          "S_1X2_X": "3.75",
+          "S_1X2_2": "2.7"
+        },
+        "MKNUM": 54,
+        "GID": 2274856,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679756,
+        "D": "2026-06-13 07:00:00",
+        "N": "Inner West Hawks FC - Gladesville Ryde Magic",
+        "C": "1609",
+        "EXTID": "67692294",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.14",
+          "S_1X2_X": "3.9",
+          "S_1X2_2": "2.7"
+        },
+        "MKNUM": 54,
+        "GID": 2319984,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679758,
+        "D": "2026-06-13 07:00:00",
+        "N": "Sydney University - Granville Rage",
+        "C": "1614",
+        "EXTID": "67692300",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.14",
+          "S_1X2_X": "3.75",
+          "S_1X2_2": "2.76"
+        },
+        "MKNUM": 54,
+        "GID": 2319984,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679759,
+        "D": "2026-06-13 07:00:00",
+        "N": "Parramatta Eagles - Central Coast Utd",
+        "C": "1615",
+        "EXTID": "67692298",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.72",
+          "S_1X2_X": "4",
+          "S_1X2_2": "3.8"
+        },
+        "MKNUM": 54,
+        "GID": 2319984,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679760,
+        "D": "2026-06-13 07:00:00",
+        "N": "South Coast Flame - Hawkesbury City",
+        "C": "1647",
+        "EXTID": "67692296",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.24",
+          "S_1X2_X": "4.15",
+          "S_1X2_2": "2.45"
+        },
+        "MKNUM": 54,
+        "GID": 2319984,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679774,
+        "D": "2026-06-13 07:00:00",
+        "N": "Moreton City Excelsior FC 2 - Samford Rangers",
+        "C": "2841",
+        "EXTID": "67904190",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.19",
+          "S_1X2_X": "7.1",
+          "S_1X2_2": "9"
+        },
+        "MKNUM": 54,
+        "GID": 2387820,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679787,
+        "D": "2026-06-13 07:00:00",
+        "N": "Springfield Utd - Ipswich Knights",
+        "C": "2861",
+        "EXTID": "67904490",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.97",
+          "S_1X2_X": "4.2",
+          "S_1X2_2": "2.86"
+        },
+        "MKNUM": 54,
+        "GID": 2313424,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679794,
+        "D": "2026-06-13 07:00:00",
+        "N": "AC Carina - North Brisbane",
+        "C": "2866",
+        "EXTID": "67904492",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.19",
+          "S_1X2_X": "6.6",
+          "S_1X2_2": "9.6"
+        },
+        "MKNUM": 7,
+        "GID": 2313424,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789649249,
+        "D": "2026-06-13 07:00:00",
+        "N": "Fremantle City - Balcatta",
+        "C": "1240",
+        "EXTID": "69115246",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.87",
+          "S_1X2_X": "3.8",
+          "S_1X2_2": "3.35"
+        },
+        "MKNUM": 16,
+        "GID": 1361446,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789649250,
+        "D": "2026-06-13 07:00:00",
+        "N": "Perth Glory Youth - Perth",
+        "C": "1249",
+        "EXTID": "69115252",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.1",
+          "S_1X2_X": "4",
+          "S_1X2_2": "1.9"
+        },
+        "MKNUM": 16,
+        "GID": 1361446,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789649251,
+        "D": "2026-06-13 07:00:00",
+        "N": "Stirling Lions - Sorrento",
+        "C": "1250",
+        "EXTID": "69115244",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.55",
+          "S_1X2_X": "4.2",
+          "S_1X2_2": "4.65"
+        },
+        "MKNUM": 16,
+        "GID": 1361446,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789649291,
+        "D": "2026-06-13 07:00:00",
+        "N": "Armadale - Bayswater",
+        "C": "2774",
+        "EXTID": "69115248",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.7",
+          "S_1X2_X": "4.15",
+          "S_1X2_2": "1.7"
+        },
+        "MKNUM": 16,
+        "GID": 1361446,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789649292,
+        "D": "2026-06-13 07:00:00",
+        "N": "Dianella White Eagles - Western Knights",
+        "C": "2775",
+        "EXTID": "69115254",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.38",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "2.48"
+        },
+        "MKNUM": 16,
+        "GID": 1361446,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668738,
+        "D": "2026-06-13 07:00:00",
+        "N": "Quinns - Curtin University",
+        "C": "1430",
+        "EXTID": "69767646",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.55",
+          "S_1X2_X": "4.1",
+          "S_1X2_2": "4.45"
+        },
+        "MKNUM": 54,
+        "GID": 2395571,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668739,
+        "D": "2026-06-13 07:00:00",
+        "N": "Joondalup City - Gwelup Croatia",
+        "C": "1435",
+        "EXTID": "69767652",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.76",
+          "S_1X2_X": "4",
+          "S_1X2_2": "3.4"
+        },
+        "MKNUM": 54,
+        "GID": 2395571,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668740,
+        "D": "2026-06-13 07:00:00",
+        "N": "Uwa Nedlands - Floreat Athena",
+        "C": "1436",
+        "EXTID": "69767650",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.4",
+          "S_1X2_X": "3.75",
+          "S_1X2_2": "2.3"
+        },
+        "MKNUM": 54,
+        "GID": 2395571,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668742,
+        "D": "2026-06-13 07:00:00",
+        "N": "Murdoch University Melville - Cockburn",
+        "C": "1481",
+        "EXTID": "69767654",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.9",
+          "S_1X2_X": "3.75",
+          "S_1X2_2": "3.1"
+        },
+        "MKNUM": 54,
+        "GID": 2395571,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668743,
+        "D": "2026-06-13 07:00:00",
+        "N": "Subiaco - Mandurah City",
+        "C": "1494",
+        "EXTID": "69866348",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.75",
+          "S_1X2_X": "4.15",
+          "S_1X2_2": "1.65"
+        },
+        "MKNUM": 54,
+        "GID": 2395571,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790456763,
+        "D": "2026-06-13 07:00:00",
+        "N": "Western Sydney Wanderers - St George City FA",
+        "C": "1272",
+        "EXTID": "67693110",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.15",
+          "S_1X2_X": "3.4",
+          "S_1X2_2": "2.78"
+        },
+        "MKNUM": 16,
+        "GID": 2271135,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668764,
+        "D": "2026-06-13 07:00:00",
+        "N": "Broadbeach United - St George Willawong",
+        "C": "2817",
+        "EXTID": "71880186",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.46",
+          "S_1X2_X": "4.65",
+          "S_1X2_2": "4.7"
+        },
+        "MKNUM": 54,
+        "GID": 3416425,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141235,
+        "D": "2026-06-13 07:00:00",
+        "N": "Virginia Utd - Logan Lightning",
+        "C": "2814",
+        "EXTID": "67904974",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.53",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "2.33"
+        },
+        "MKNUM": 54,
+        "GID": 2403490,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668751,
+        "D": "2026-06-13 07:30:00",
+        "N": "Northern Spirit - Sydney Olimpic",
+        "C": "1526",
+        "EXTID": "67690924",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.58",
+          "S_1X2_X": "3.9",
+          "S_1X2_2": "4.9"
+        },
+        "MKNUM": 137,
+        "GID": 1315470,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668752,
+        "D": "2026-06-13 07:30:00",
+        "N": "Sutherland - Blacktown",
+        "C": "1811",
+        "EXTID": "67690922",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.26",
+          "S_1X2_X": "3.35",
+          "S_1X2_2": "2.8"
+        },
+        "MKNUM": 137,
+        "GID": 1315470,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790280399,
+        "D": "2026-06-13 07:30:00",
+        "N": "The Cove - Modbury Jets",
+        "C": "2721",
+        "EXTID": "68051658",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.1",
+          "S_1X2_X": "3.6",
+          "S_1X2_2": "2.02"
+        },
+        "MKNUM": 54,
+        "GID": 2118465,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141217,
+        "D": "2026-06-13 07:45:00",
+        "N": "Metro Stars - Sturt Lions",
+        "C": "2803",
+        "EXTID": "68048910",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.35",
+          "S_1X2_X": "4.9",
+          "S_1X2_2": "6.8"
+        },
+        "MKNUM": 54,
+        "GID": 1400995,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668745,
+        "D": "2026-06-13 08:00:00",
+        "N": "Wollongong - APIA Tigers",
+        "C": "1518",
+        "EXTID": "67690926",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "4.6",
+          "S_1X2_X": "3.75",
+          "S_1X2_2": "1.64"
+        },
+        "MKNUM": 137,
+        "GID": 1315470,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789172569,
+        "D": "2026-06-13 08:00:00",
+        "N": "Gold Coast Knights - Eastern Suburbs",
+        "C": "2617",
+        "EXTID": "71793132",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.12",
+          "S_1X2_X": "3.65",
+          "S_1X2_2": "2.86"
+        },
+        "MKNUM": 137,
+        "GID": 1331280,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679782,
+        "D": "2026-06-13 08:00:00",
+        "N": "Pine Hills - Caloundra",
+        "C": "2842",
+        "EXTID": "67904194",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.88",
+          "S_1X2_X": "4.05",
+          "S_1X2_2": "2"
+        },
+        "MKNUM": 54,
+        "GID": 2387820,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679785,
+        "D": "2026-06-13 08:00:00",
+        "N": "Taringa Rovers - Mitchelton",
+        "C": "2844",
+        "EXTID": "67904192",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.85",
+          "S_1X2_X": "4.25",
+          "S_1X2_2": "3.15"
+        },
+        "MKNUM": 54,
+        "GID": 2387820,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679793,
+        "D": "2026-06-13 08:00:00",
+        "N": "Moggill - MT Gravatt Hawks",
+        "C": "2865",
+        "EXTID": "67904494",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.19",
+          "S_1X2_X": "6.5",
+          "S_1X2_2": "10"
+        },
+        "MKNUM": 54,
+        "GID": 2313424,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790177975,
+        "D": "2026-06-13 08:00:00",
+        "N": "Kingsley Westside FC - Inglewood United Reserves",
+        "C": "1148",
+        "EXTID": "69768226",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.07",
+          "S_1X2_X": "8.5",
+          "S_1X2_2": "15"
+        },
+        "MKNUM": 54,
+        "GID": 3671188,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789649248,
+        "D": "2026-06-13 08:00:00",
+        "N": "Capalaba - Sunshine Coast",
+        "C": "1197",
+        "EXTID": "67904782",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.35",
+          "S_1X2_X": "3.55",
+          "S_1X2_2": "1.93"
+        },
+        "MKNUM": 54,
+        "GID": 1347219,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679764,
+        "D": "2026-06-13 08:30:00",
+        "N": "Northern Tigers U20 - Inter Lions FC",
+        "C": "1835",
+        "EXTID": "67693606",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.07",
+          "S_1X2_X": "8.1",
+          "S_1X2_2": "18"
+        },
+        "MKNUM": 7,
+        "GID": 3481448,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679771,
+        "D": "2026-06-13 08:30:00",
+        "N": "Macarthur Rams U20 - Hills Utd U20",
+        "C": "2840",
+        "EXTID": "67693604",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.6",
+          "S_1X2_X": "3.65",
+          "S_1X2_2": "2.18"
+        },
+        "MKNUM": 54,
+        "GID": 3481448,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789803464,
+        "D": "2026-06-13 09:00:00",
+        "N": "North Shore Mariners - Rydalmere Lions",
+        "C": "2753",
+        "EXTID": "67691668",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.98",
+          "S_1X2_X": "3.55",
+          "S_1X2_2": "3.2"
+        },
+        "MKNUM": 54,
+        "GID": 2274856,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679761,
+        "D": "2026-06-13 09:00:00",
+        "N": "Camden Tigers - Bankstown Utd",
+        "C": "1676",
+        "EXTID": "67692302",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.5",
+          "S_1X2_X": "4",
+          "S_1X2_2": "2.25"
+        },
+        "MKNUM": 54,
+        "GID": 2319984,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668763,
+        "D": "2026-06-13 09:00:00",
+        "N": "Grange Thistle - South West Queensland Thunder",
+        "C": "2031",
+        "EXTID": "67904196",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.04",
+          "S_1X2_X": "3.95",
+          "S_1X2_2": "2.85"
+        },
+        "MKNUM": 54,
+        "GID": 2387820,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679783,
+        "D": "2026-06-13 09:00:00",
+        "N": "Brisbane Knights - Souths Utd",
+        "C": "2843",
+        "EXTID": "67904200",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.15",
+          "S_1X2_X": "4.4",
+          "S_1X2_2": "1.8"
+        },
+        "MKNUM": 54,
+        "GID": 2387820,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679786,
+        "D": "2026-06-13 09:00:00",
+        "N": "Virginia Utd - Southside Eagles",
+        "C": "2845",
+        "EXTID": "67904198",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.83",
+          "S_1X2_X": "4.25",
+          "S_1X2_2": "3.2"
+        },
+        "MKNUM": 54,
+        "GID": 2387820,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790177971,
+        "D": "2026-06-13 09:00:00",
+        "N": "Moreton City Excelsior - Palm Beach SC",
+        "C": "1077",
+        "EXTID": "67904978",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.55",
+          "S_1X2_X": "4.1",
+          "S_1X2_2": "1.76"
+        },
+        "MKNUM": 54,
+        "GID": 2403490,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679763,
+        "D": "2026-06-13 09:00:00",
+        "N": "Hurstville FC - Western City Rangers FC",
+        "C": "1719",
+        "EXTID": "67693608",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.74",
+          "S_1X2_X": "3.95",
+          "S_1X2_2": "3.5"
+        },
+        "MKNUM": 54,
+        "GID": 3481448,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789649294,
+        "D": "2026-06-13 09:00:00",
+        "N": "Lions - Gold Coast Utd",
+        "C": "2777",
+        "EXTID": "67904784",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.19",
+          "S_1X2_X": "6",
+          "S_1X2_2": "11"
+        },
+        "MKNUM": 54,
+        "GID": 1347219,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789679799,
+        "D": "2026-06-13 09:15:00",
+        "N": "Broadbeach Utd - St George Willawong",
+        "C": "2875",
+        "EXTID": "71880188",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.14",
+          "S_1X2_X": "7.1",
+          "S_1X2_2": "13.25"
+        },
+        "MKNUM": 7,
+        "GID": 2307710,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789803467,
+        "D": "2026-06-13 09:15:00",
+        "N": "Queensland - Newmarket",
+        "C": "2754",
+        "EXTID": "67904500",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "6.7",
+          "S_1X2_X": "5.6",
+          "S_1X2_2": "1.3"
+        },
+        "MKNUM": 54,
+        "GID": 2313424,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 785372743,
+        "D": "2026-06-13 09:30:00",
+        "N": "Harju Laagri - Kuressaare",
+        "C": "2070",
+        "EXTID": "70606728",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.05",
+          "S_1X2_X": "3.45",
+          "S_1X2_2": "3.3"
+        },
+        "MKNUM": 138,
+        "GID": 1348873,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668757,
+        "D": "2026-06-13 09:45:00",
+        "N": "Spirit U20 - Sydney Olympic U20",
+        "C": "2029",
+        "EXTID": "67693116",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.12",
+          "S_1X2_X": "7.1",
+          "S_1X2_2": "11.5"
+        },
+        "MKNUM": 54,
+        "GID": 2271135,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668758,
+        "D": "2026-06-13 09:45:00",
+        "N": "Sutherland Sharks U20 - Blacktown City U20",
+        "C": "2030",
+        "EXTID": "67693114",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.14",
+          "S_1X2_X": "3.8",
+          "S_1X2_2": "2.58"
+        },
+        "MKNUM": 54,
+        "GID": 2271135,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141232,
+        "D": "2026-06-13 10:00:00",
+        "N": "Adelaide United Youth - Adelaide City",
+        "C": "2812",
+        "EXTID": "68048912",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.84",
+          "S_1X2_X": "3.4",
+          "S_1X2_2": "2.23"
+        },
+        "MKNUM": 54,
+        "GID": 1400995,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789668741,
+        "D": "2026-06-13 10:00:00",
+        "N": "Kingsley - Inglewood Utd.",
+        "C": "1468",
+        "EXTID": "69767656",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.86",
+          "S_1X2_X": "3.65",
+          "S_1X2_2": "3.3"
+        },
+        "MKNUM": 54,
+        "GID": 2395571,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790252358,
+        "D": "2026-06-13 10:00:00",
+        "N": "Avangard Kursk - Ryazan",
+        "C": "1617",
+        "EXTID": "70228316",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.5",
+          "S_1X2_X": "2.95",
+          "S_1X2_2": "2.65"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 784873189,
+        "D": "2026-06-13 10:30:00",
+        "N": "Spartak Moscow - CSKA Moscow",
+        "C": "1081",
+        "EXTID": "70868864",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.53",
+          "S_1X2_X": "3.1",
+          "S_1X2_2": "2.53"
+        },
+        "MKNUM": 96,
+        "GID": 7183907,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789358050,
+        "D": "2026-06-13 10:30:00",
+        "N": "Pitea Dff - Brommapojkarna",
+        "C": "2253",
+        "EXTID": "66918172",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.85",
+          "S_1X2_X": "3.55",
+          "S_1X2_2": "3.65"
+        },
+        "MKNUM": 5,
+        "GID": 1416783,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 787800790,
+        "D": "2026-06-13 11:00:00",
+        "N": "Tobol Kostanay - FC Kyzylzhar SK",
+        "C": "1092",
+        "EXTID": "69342904",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.78",
+          "S_1X2_X": "3.55",
+          "S_1X2_2": "4.25"
+        },
+        "MKNUM": 95,
+        "GID": 1346407,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 787808973,
+        "D": "2026-06-13 11:00:00",
+        "N": "Ogre United - Riga",
+        "C": "2279",
+        "EXTID": "68492564",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "14",
+          "S_1X2_X": "6.6",
+          "S_1X2_2": "1.17"
+        },
+        "MKNUM": 7,
+        "GID": 1349174,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790246787,
+        "D": "2026-06-13 11:00:00",
+        "N": "Dinamo St Petersburg - Dinamo Vologda",
+        "C": "3256",
+        "EXTID": "70250762",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.28",
+          "S_1X2_X": "4.4",
+          "S_1X2_2": "8.7"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862571,
+        "D": "2026-06-13 11:00:00",
+        "N": "Sleipner - Raagsveds IF",
+        "C": "1594",
+        "EXTID": "68377652",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.2",
+          "S_1X2_X": "3.55",
+          "S_1X2_2": "2.76"
+        },
+        "MKNUM": 137,
+        "GID": 9010474,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789654104,
+        "D": "2026-06-13 11:00:00",
+        "N": "IFK Haninge - Orebro Syrianska",
+        "C": "1296",
+        "EXTID": "68377660",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.73",
+          "S_1X2_X": "4",
+          "S_1X2_2": "3.7"
+        },
+        "MKNUM": 137,
+        "GID": 9010474,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862566,
+        "D": "2026-06-13 11:00:00",
+        "N": "Enskede - Franke",
+        "C": "1467",
+        "EXTID": "68320840",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.26",
+          "S_1X2_X": "3.55",
+          "S_1X2_2": "2.7"
+        },
+        "MKNUM": 137,
+        "GID": 9020809,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862562,
+        "D": "2026-06-13 11:00:00",
+        "N": "IK Tord - IF Karlstad Fotbollutveckling",
+        "C": "1170",
+        "EXTID": "68320228",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.13",
+          "S_1X2_X": "3.6",
+          "S_1X2_2": "2.88"
+        },
+        "MKNUM": 137,
+        "GID": 9020810,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862555,
+        "D": "2026-06-13 11:00:00",
+        "N": "Angelholms - Utsiktens",
+        "C": "1036",
+        "EXTID": "68311662",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.56",
+          "S_1X2_X": "4.05",
+          "S_1X2_2": "4.85"
+        },
+        "MKNUM": 137,
+        "GID": 9055087,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862556,
+        "D": "2026-06-13 11:00:00",
+        "N": "Tvaakers - Jonkopings",
+        "C": "1047",
+        "EXTID": "68311666",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "4",
+          "S_1X2_X": "3.4",
+          "S_1X2_2": "1.82"
+        },
+        "MKNUM": 137,
+        "GID": 9055087,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862557,
+        "D": "2026-06-13 11:00:00",
+        "N": "BK Olympic - Laholms FK",
+        "C": "1088",
+        "EXTID": "68311664",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.68",
+          "S_1X2_X": "4.05",
+          "S_1X2_2": "3.95"
+        },
+        "MKNUM": 137,
+        "GID": 9055087,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789358023,
+        "D": "2026-06-13 11:00:00",
+        "N": "Rosengard - IFK Norrkoping DFK",
+        "C": "1946",
+        "EXTID": "66918168",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.02",
+          "S_1X2_X": "3.55",
+          "S_1X2_2": "3.15"
+        },
+        "MKNUM": 5,
+        "GID": 1416783,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789358055,
+        "D": "2026-06-13 11:00:00",
+        "N": "AIK DFF - Djurgaardens Dff",
+        "C": "2349",
+        "EXTID": "66918164",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.32",
+          "S_1X2_X": "3.4",
+          "S_1X2_2": "2.72"
+        },
+        "MKNUM": 5,
+        "GID": 1416783,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789413839,
+        "D": "2026-06-13 11:00:00",
+        "N": "IF Elfsborg - IFK Goteborg",
+        "C": "2376",
+        "EXTID": "67473298",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.8",
+          "S_1X2_X": "3.3",
+          "S_1X2_2": "3.9"
+        },
+        "MKNUM": 5,
+        "GID": 3350255,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789413843,
+        "D": "2026-06-13 11:00:00",
+        "N": "Alingsas FC United - Gamla Upsala",
+        "C": "2424",
+        "EXTID": "67473296",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.9",
+          "S_1X2_X": "3.3",
+          "S_1X2_2": "3.45"
+        },
+        "MKNUM": 5,
+        "GID": 3350255,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862597,
+        "D": "2026-06-13 11:15:00",
+        "N": "FK Suduva Marijampole - FK Banga Gargzdai",
+        "C": "1705",
+        "EXTID": "68954866",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.27",
+          "S_1X2_X": "3",
+          "S_1X2_2": "3.1"
+        },
+        "MKNUM": 137,
+        "GID": 1332088,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 786234140,
+        "D": "2026-06-13 11:30:00",
+        "N": "Narva Trans - Nomme Utd",
+        "C": "2862",
+        "EXTID": "68214686",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.25",
+          "S_1X2_X": "3.65",
+          "S_1X2_2": "2.77"
+        },
+        "MKNUM": 138,
+        "GID": 1348873,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 786197896,
+        "D": "2026-06-13 12:00:00",
+        "N": "Inter Turku - Oulu",
+        "C": "1569",
+        "EXTID": "67091340",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.72",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "4.85"
+        },
+        "MKNUM": 163,
+        "GID": 1408820,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 786197902,
+        "D": "2026-06-13 12:00:00",
+        "N": "Ilves - TPS Turku",
+        "C": "2117",
+        "EXTID": "67091342",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.9",
+          "S_1X2_X": "3.75",
+          "S_1X2_2": "3.7"
+        },
+        "MKNUM": 163,
+        "GID": 1408820,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788187562,
+        "D": "2026-06-13 12:00:00",
+        "N": "Zhetysu Taldykorgan - FC Okzhetpes",
+        "C": "2365",
+        "EXTID": "69342900",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.58",
+          "S_1X2_X": "3.35",
+          "S_1X2_2": "2.54"
+        },
+        "MKNUM": 95,
+        "GID": 1346407,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 787829167,
+        "D": "2026-06-13 12:00:00",
+        "N": "Baranovichi - FC Minsk",
+        "C": "1221",
+        "EXTID": "71861626",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.4",
+          "S_1X2_X": "3.3",
+          "S_1X2_2": "2.08"
+        },
+        "MKNUM": 138,
+        "GID": 1346185,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862595,
+        "D": "2026-06-13 12:00:00",
+        "N": "Broendby - AGF Aarhus",
+        "C": "1697",
+        "EXTID": "67149496",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.4",
+          "S_1X2_X": "4.3",
+          "S_1X2_2": "6"
+        },
+        "MKNUM": 5,
+        "GID": 1388573,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789803458,
+        "D": "2026-06-13 12:00:00",
+        "N": "FA 2000 - Bronshoj",
+        "C": "2748",
+        "EXTID": "70730748",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.02",
+          "S_1X2_X": "3.6",
+          "S_1X2_2": "3.15"
+        },
+        "MKNUM": 54,
+        "GID": 2254950,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789803459,
+        "D": "2026-06-13 12:00:00",
+        "N": "Hoersholm-Usseroed IK - Næsbi",
+        "C": "2749",
+        "EXTID": "70730752",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.05",
+          "S_1X2_X": "4.1",
+          "S_1X2_2": "1.9"
+        },
+        "MKNUM": 54,
+        "GID": 2254950,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789803505,
+        "D": "2026-06-13 12:00:00",
+        "N": "Nykoebing - Vanloese",
+        "C": "2766",
+        "EXTID": "70730750",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.34",
+          "S_1X2_X": "4.7",
+          "S_1X2_2": "7.4"
+        },
+        "MKNUM": 54,
+        "GID": 2254950,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789803460,
+        "D": "2026-06-13 12:00:00",
+        "N": "Holbaek B&I - Vejgaard",
+        "C": "2751",
+        "EXTID": "70730802",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.3",
+          "S_1X2_X": "5.2",
+          "S_1X2_2": "7"
+        },
+        "MKNUM": 54,
+        "GID": 2254951,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789803463,
+        "D": "2026-06-13 12:00:00",
+        "N": "BK Frem - Sundby",
+        "C": "2752",
+        "EXTID": "70730806",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.2",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "2.67"
+        },
+        "MKNUM": 54,
+        "GID": 2254951,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789803506,
+        "D": "2026-06-13 12:00:00",
+        "N": "IF Lyseng - Odder IGF",
+        "C": "2770",
+        "EXTID": "70730804",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.26",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "2.6"
+        },
+        "MKNUM": 54,
+        "GID": 2254951,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789654103,
+        "D": "2026-06-13 12:00:00",
+        "N": "Fittja IF - Karlslunds IF HFK",
+        "C": "1288",
+        "EXTID": "68377656",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.8",
+          "S_1X2_X": "3.85",
+          "S_1X2_2": "3.6"
+        },
+        "MKNUM": 137,
+        "GID": 9010474,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862563,
+        "D": "2026-06-13 12:00:00",
+        "N": "Vaxjo Norra - Trelleborg",
+        "C": "1199",
+        "EXTID": "68344710",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.1",
+          "S_1X2_X": "3.65",
+          "S_1X2_2": "2.88"
+        },
+        "MKNUM": 137,
+        "GID": 9020808,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862564,
+        "D": "2026-06-13 12:00:00",
+        "N": "Berga - Torns",
+        "C": "1214",
+        "EXTID": "68344708",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.73",
+          "S_1X2_X": "3.85",
+          "S_1X2_2": "3.9"
+        },
+        "MKNUM": 137,
+        "GID": 9020808,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862561,
+        "D": "2026-06-13 12:00:00",
+        "N": "Skara - Lidkopings",
+        "C": "1165",
+        "EXTID": "68320230",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.64",
+          "S_1X2_X": "4",
+          "S_1X2_2": "4.2"
+        },
+        "MKNUM": 137,
+        "GID": 9020810,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862570,
+        "D": "2026-06-13 12:00:00",
+        "N": "IFK Luleaa - Storfors AIK",
+        "C": "1553",
+        "EXTID": "69539716",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.35",
+          "S_1X2_X": "4.9",
+          "S_1X2_2": "6.7"
+        },
+        "MKNUM": 137,
+        "GID": 9103166,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862582,
+        "D": "2026-06-13 12:00:00",
+        "N": "HIFK - PEPO Lappeeranta",
+        "C": "1622",
+        "EXTID": "69108676",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.88",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "3.15"
+        },
+        "MKNUM": 54,
+        "GID": 9140379,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789358027,
+        "D": "2026-06-13 12:00:00",
+        "N": "Eskilstuna Utd DFF - Malmo FF",
+        "C": "2239",
+        "EXTID": "66918166",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "6.2",
+          "S_1X2_X": "4.4",
+          "S_1X2_2": "1.42"
+        },
+        "MKNUM": 5,
+        "GID": 1416783,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789413842,
+        "D": "2026-06-13 12:00:00",
+        "N": "Sandvikens IF - Husqvarna FF",
+        "C": "2378",
+        "EXTID": "67473304",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.3",
+          "S_1X2_X": "3.3",
+          "S_1X2_2": "2.65"
+        },
+        "MKNUM": 5,
+        "GID": 3350255,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 787800787,
+        "D": "2026-06-13 13:00:00",
+        "N": "FC Kairat Almaty - FK Atyrau",
+        "C": "1069",
+        "EXTID": "69342906",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.4",
+          "S_1X2_X": "4.3",
+          "S_1X2_2": "7.7"
+        },
+        "MKNUM": 95,
+        "GID": 1346407,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862584,
+        "D": "2026-06-13 13:00:00",
+        "N": "JIPPO - Kapa",
+        "C": "1652",
+        "EXTID": "67604852",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.5",
+          "S_1X2_X": "4.15",
+          "S_1X2_2": "6"
+        },
+        "MKNUM": 138,
+        "GID": 1455180,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 787829183,
+        "D": "2026-06-13 13:00:00",
+        "N": "Grobinas SC/LFS - Rigas Futbola Skola",
+        "C": "1528",
+        "EXTID": "68492566",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "11",
+          "S_1X2_X": "5.6",
+          "S_1X2_2": "1.23"
+        },
+        "MKNUM": 7,
+        "GID": 1349174,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789952656,
+        "D": "2026-06-13 13:00:00",
+        "N": "Huracan - Tacuarembo",
+        "C": "1964",
+        "EXTID": "71932254",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.66",
+          "S_1X2_X": "2.93",
+          "S_1X2_2": "2.76"
+        },
+        "MKNUM": 54,
+        "GID": 1513082,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242762,
+        "D": "2026-06-13 13:00:00",
+        "N": "Volgar Astrakhan - Novosibirsk",
+        "C": "1638",
+        "EXTID": "69280646",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.1",
+          "S_1X2_X": "3.4",
+          "S_1X2_2": "2"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242763,
+        "D": "2026-06-13 13:00:00",
+        "N": "FK Veles Moscow - Leningradets",
+        "C": "1665",
+        "EXTID": "69280652",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.77",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "3.55"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242773,
+        "D": "2026-06-13 13:00:00",
+        "N": "Kaluga - FC Mashuk-KMV Pyatigorsk",
+        "C": "2767",
+        "EXTID": "69280644",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "4.25",
+          "S_1X2_X": "3.4",
+          "S_1X2_2": "1.7"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242775,
+        "D": "2026-06-13 13:00:00",
+        "N": "Torpedo Miass - Rodina-2",
+        "C": "2769",
+        "EXTID": "69280650",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.43",
+          "S_1X2_X": "2.97",
+          "S_1X2_2": "2.73"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242776,
+        "D": "2026-06-13 13:00:00",
+        "N": "FC Tekstilshchik Ivanovo - Irtysh Omsk",
+        "C": "2887",
+        "EXTID": "69280648",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.24",
+          "S_1X2_X": "5.1",
+          "S_1X2_2": "9"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242780,
+        "D": "2026-06-13 13:00:00",
+        "N": "Shakhtar Donetsk Taganrog - FC Druzhba Maykop",
+        "C": "2953",
+        "EXTID": "70249570",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.46",
+          "S_1X2_X": "3.9",
+          "S_1X2_2": "5.7"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790252353,
+        "D": "2026-06-13 13:00:00",
+        "N": "Zenit Penza - FC Metallurg Lipetsk",
+        "C": "1515",
+        "EXTID": "70228314",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "16",
+          "S_1X2_X": "5.6",
+          "S_1X2_2": "1.14"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862569,
+        "D": "2026-06-13 13:00:00",
+        "N": "Galtabacks BK - IK Kongahalla",
+        "C": "1519",
+        "EXTID": "68377768",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.02",
+          "S_1X2_X": "3.85",
+          "S_1X2_2": "2.94"
+        },
+        "MKNUM": 137,
+        "GID": 9010473,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862567,
+        "D": "2026-06-13 13:00:00",
+        "N": "Kungsangens - Gute",
+        "C": "1482",
+        "EXTID": "68320844",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.08",
+          "S_1X2_X": "3.6",
+          "S_1X2_2": "2.96"
+        },
+        "MKNUM": 137,
+        "GID": 9020809,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789358057,
+        "D": "2026-06-13 13:00:00",
+        "N": "Hammarby Dff - Hacken Gothenburg",
+        "C": "2368",
+        "EXTID": "66918170",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.36",
+          "S_1X2_X": "3.3",
+          "S_1X2_2": "2.7"
+        },
+        "MKNUM": 5,
+        "GID": 1416783,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788862572,
+        "D": "2026-06-13 13:30:00",
+        "N": "Lahden Reipas - Union Plaani",
+        "C": "1603",
+        "EXTID": "69108678",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.25",
+          "S_1X2_X": "5.7",
+          "S_1X2_2": "7"
+        },
+        "MKNUM": 54,
+        "GID": 9140379,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 786197897,
+        "D": "2026-06-13 14:00:00",
+        "N": "Vaasa - Kuopio",
+        "C": "2024",
+        "EXTID": "67091346",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.3",
+          "S_1X2_X": "3.3",
+          "S_1X2_2": "2.18"
+        },
+        "MKNUM": 161,
+        "GID": 1408820,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 786197900,
+        "D": "2026-06-13 14:00:00",
+        "N": "Jaro - HJK",
+        "C": "2048",
+        "EXTID": "67091344",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "4.5",
+          "S_1X2_X": "3.95",
+          "S_1X2_2": "1.7"
+        },
+        "MKNUM": 161,
+        "GID": 1408820,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141141,
+        "D": "2026-06-13 14:00:00",
+        "N": "KPV - JJK Jyvaskyla",
+        "C": "1805",
+        "EXTID": "68538300",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "6",
+          "S_1X2_X": "4.8",
+          "S_1X2_2": "1.38"
+        },
+        "MKNUM": 137,
+        "GID": 4727543,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788893696,
+        "D": "2026-06-13 14:00:00",
+        "N": "07 Vestur Sorvagur - Vikingur Gota",
+        "C": "2358",
+        "EXTID": "67850018",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "7.1",
+          "S_1X2_X": "4.65",
+          "S_1X2_2": "1.38"
+        },
+        "MKNUM": 138,
+        "GID": 1335326,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789440870,
+        "D": "2026-06-13 14:00:00",
+        "N": "Guarani - Caxias RS",
+        "C": "2280",
+        "EXTID": "69255080",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.96",
+          "S_1X2_X": "2.92",
+          "S_1X2_2": "4.1"
+        },
+        "MKNUM": 54,
+        "GID": 1508114,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 787829166,
+        "D": "2026-06-13 14:00:00",
+        "N": "Maxline Vitebsk - Vitebsk",
+        "C": "1207",
+        "EXTID": "71861628",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.3",
+          "S_1X2_X": "4.5",
+          "S_1X2_2": "12"
+        },
+        "MKNUM": 138,
+        "GID": 1346185,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 786222204,
+        "D": "2026-06-13 14:00:00",
+        "N": "Tartu Tammeka - Parnu Vaprus",
+        "C": "1800",
+        "EXTID": "68214682",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.1",
+          "S_1X2_X": "3.65",
+          "S_1X2_2": "3.05"
+        },
+        "MKNUM": 138,
+        "GID": 1348873,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788879795,
+        "D": "2026-06-13 14:00:00",
+        "N": "Minija 2017 - Baltijos Futbolo Akademija",
+        "C": "2157",
+        "EXTID": "69670760",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.3",
+          "S_1X2_X": "4.8",
+          "S_1X2_2": "8.5"
+        },
+        "MKNUM": 137,
+        "GID": 1364198,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788879767,
+        "D": "2026-06-13 14:00:00",
+        "N": "Leiknir Reykjavik - IF Vestri",
+        "C": "1971",
+        "EXTID": "68306880",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.97",
+          "S_1X2_X": "3.75",
+          "S_1X2_2": "2.14"
+        },
+        "MKNUM": 138,
+        "GID": 1458590,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789803474,
+        "D": "2026-06-13 14:00:00",
+        "N": "Volsungur - UMF Njardvik",
+        "C": "2760",
+        "EXTID": "68306882",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "6.3",
+          "S_1X2_X": "4.9",
+          "S_1X2_2": "1.4"
+        },
+        "MKNUM": 138,
+        "GID": 1458590,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242754,
+        "D": "2026-06-13 14:00:00",
+        "N": "Chayka M Peschanokopskoe - Nart Cherkessk",
+        "C": "1392",
+        "EXTID": "70249568",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "19",
+          "S_1X2_X": "5.8",
+          "S_1X2_2": "1.12"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242756,
+        "D": "2026-06-13 14:00:00",
+        "N": "Zarya Lugansk - Angusht Nazran",
+        "C": "1567",
+        "EXTID": "70249574",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.8",
+          "S_1X2_X": "3",
+          "S_1X2_2": "4.35"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242757,
+        "D": "2026-06-13 14:00:00",
+        "N": "Psk Dinskaya - Astrakhan",
+        "C": "1621",
+        "EXTID": "70249580",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.8",
+          "S_1X2_X": "3",
+          "S_1X2_2": "4.35"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242779,
+        "D": "2026-06-13 14:00:00",
+        "N": "PFC Kiziltash Bakhchisaray - Neftyanik Izberbash",
+        "C": "2890",
+        "EXTID": "70249578",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.21",
+          "S_1X2_X": "4.75",
+          "S_1X2_2": "13.25"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242782,
+        "D": "2026-06-13 14:00:00",
+        "N": "FC Rubin Yalta - FC Dynamo-2 Makhachkala",
+        "C": "2981",
+        "EXTID": "70249576",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.34",
+          "S_1X2_X": "3.85",
+          "S_1X2_2": "9.3"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242795,
+        "D": "2026-06-13 14:00:00",
+        "N": "FC Sevastopol - FC Pobeda Khasavyurt",
+        "C": "2984",
+        "EXTID": "70249582",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.3",
+          "S_1X2_X": "4.35",
+          "S_1X2_2": "8.3"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790246783,
+        "D": "2026-06-13 14:00:00",
+        "N": "Iskra Smolensk - Luki-Energiya V.luki",
+        "C": "2320",
+        "EXTID": "70250764",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "5.6",
+          "S_1X2_X": "3.75",
+          "S_1X2_2": "1.48"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790252352,
+        "D": "2026-06-13 14:00:00",
+        "N": "Shumbrat Saransk - FC Kvant Obninsk",
+        "C": "1512",
+        "EXTID": "70228308",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.14",
+          "S_1X2_X": "6.4",
+          "S_1X2_2": "12.25"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790252356,
+        "D": "2026-06-13 14:00:00",
+        "N": "Saturn Ramenskoye - FC Volna Nizhny Novgorod Oblast",
+        "C": "1606",
+        "EXTID": "70228318",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "4.65",
+          "S_1X2_X": "3.15",
+          "S_1X2_2": "1.72"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788879766,
+        "D": "2026-06-13 14:00:00",
+        "N": "Jonsereds - Qviding",
+        "C": "1970",
+        "EXTID": "68377764",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.9",
+          "S_1X2_X": "4",
+          "S_1X2_2": "3.15"
+        },
+        "MKNUM": 137,
+        "GID": 9010473,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789221941,
+        "D": "2026-06-13 14:00:00",
+        "N": "FOC Farsta - IF Eker Orebro",
+        "C": "1930",
+        "EXTID": "68377664",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.53",
+          "S_1X2_X": "4.45",
+          "S_1X2_2": "4.6"
+        },
+        "MKNUM": 135,
+        "GID": 9010474,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788879764,
+        "D": "2026-06-13 14:00:00",
+        "N": "Bollstanas SK - Viggbyholms IK FF",
+        "C": "1840",
+        "EXTID": "68320842",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.87",
+          "S_1X2_X": "3.85",
+          "S_1X2_2": "3.35"
+        },
+        "MKNUM": 137,
+        "GID": 9020809,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788879765,
+        "D": "2026-06-13 14:00:00",
+        "N": "Sunnersta AIF - Falu BS FK",
+        "C": "1956",
+        "EXTID": "68320846",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.54",
+          "S_1X2_X": "3.55",
+          "S_1X2_2": "2.4"
+        },
+        "MKNUM": 137,
+        "GID": 9020809,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788879759,
+        "D": "2026-06-13 14:00:00",
+        "N": "IF Karlstad Fotbol - Gefle",
+        "C": "1445",
+        "EXTID": "68310960",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.63",
+          "S_1X2_X": "3.9",
+          "S_1X2_2": "4.5"
+        },
+        "MKNUM": 137,
+        "GID": 9040200,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788879760,
+        "D": "2026-06-13 14:00:00",
+        "N": "FC Jarfalla - Arlanda",
+        "C": "1459",
+        "EXTID": "68310958",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.95",
+          "S_1X2_X": "3.8",
+          "S_1X2_2": "1.73"
+        },
+        "MKNUM": 137,
+        "GID": 9040200,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788879793,
+        "D": "2026-06-13 14:00:00",
+        "N": "IFK Stocksund - Sollentuna",
+        "C": "2131",
+        "EXTID": "68310962",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "2.03"
+        },
+        "MKNUM": 137,
+        "GID": 9040200,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788879761,
+        "D": "2026-06-13 14:00:00",
+        "N": "Atvidabergs - Eskilsminne",
+        "C": "1559",
+        "EXTID": "68311668",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.87",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "3.4"
+        },
+        "MKNUM": 137,
+        "GID": 9055087,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788879794,
+        "D": "2026-06-13 14:00:00",
+        "N": "Trollhattan - Kristianstad",
+        "C": "2147",
+        "EXTID": "68311670",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.98",
+          "S_1X2_X": "3.65",
+          "S_1X2_2": "3.15"
+        },
+        "MKNUM": 137,
+        "GID": 9055087,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788879768,
+        "D": "2026-06-13 14:00:00",
+        "N": "Espoon Palloseura - AIFK",
+        "C": "1974",
+        "EXTID": "69108858",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.75",
+          "S_1X2_X": "3.95",
+          "S_1X2_2": "1.68"
+        },
+        "MKNUM": 54,
+        "GID": 9140379,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788879770,
+        "D": "2026-06-13 14:00:00",
+        "N": "P-Iirot Rauma - Honka",
+        "C": "1980",
+        "EXTID": "69108856",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "5.25",
+          "S_1X2_X": "4.6",
+          "S_1X2_2": "1.4"
+        },
+        "MKNUM": 54,
+        "GID": 9140379,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141190,
+        "D": "2026-06-13 14:00:00",
+        "N": "PuiU - MyPa",
+        "C": "2756",
+        "EXTID": "69108680",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.7",
+          "S_1X2_X": "4.05",
+          "S_1X2_2": "3.55"
+        },
+        "MKNUM": 54,
+        "GID": 9140379,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789803473,
+        "D": "2026-06-13 14:00:00",
+        "N": "Vaxjo DFF - Uppsala Fotboll",
+        "C": "2759",
+        "EXTID": "66918176",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.66",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "4.5"
+        },
+        "MKNUM": 5,
+        "GID": 1416783,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141242,
+        "D": "2026-06-13 14:00:00",
+        "N": "Union de Santa Fe - Atletico Lanus",
+        "C": "2823",
+        "EXTID": "71814418",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.1",
+          "S_1X2_X": "3",
+          "S_1X2_2": "2.17"
+        },
+        "MKNUM": 37,
+        "GID": 4593513,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 787878575,
+        "D": "2026-06-13 15:00:00",
+        "N": "Auda - Jelgava",
+        "C": "2113",
+        "EXTID": "68492568",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.62",
+          "S_1X2_X": "3.95",
+          "S_1X2_2": "4.8"
+        },
+        "MKNUM": 138,
+        "GID": 1349174,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790242777,
+        "D": "2026-06-13 15:00:00",
+        "N": "Rostov 2 - FC Spartak Nalchik",
+        "C": "2888",
+        "EXTID": "70249572",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.75",
+          "S_1X2_X": "3.15",
+          "S_1X2_2": "4.4"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790252354,
+        "D": "2026-06-13 15:00:00",
+        "N": "Spartak Tambov - Rotor II Volgograd",
+        "C": "1584",
+        "EXTID": "70228306",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.11",
+          "S_1X2_X": "6.5",
+          "S_1X2_2": "15"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790252355,
+        "D": "2026-06-13 15:00:00",
+        "N": "Strogino Moscow - FK Orel",
+        "C": "1591",
+        "EXTID": "70228312",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "4.1",
+          "S_1X2_X": "2.92",
+          "S_1X2_2": "1.88"
+        },
+        "MKNUM": 37,
+        "GID": 3741619,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141146,
+        "D": "2026-06-13 15:30:00",
+        "N": "VJS - Rovaniemi",
+        "C": "2162",
+        "EXTID": "68538302",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.88",
+          "S_1X2_X": "3.8",
+          "S_1X2_2": "3.3"
+        },
+        "MKNUM": 137,
+        "GID": 4727543,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 786197901,
+        "D": "2026-06-13 16:00:00",
+        "N": "IFK Mariehamn - Gnistan",
+        "C": "2074",
+        "EXTID": "67091350",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.7",
+          "S_1X2_X": "3.5",
+          "S_1X2_2": "1.98"
+        },
+        "MKNUM": 161,
+        "GID": 1408820,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 786197903,
+        "D": "2026-06-13 16:00:00",
+        "N": "Lahti - SJK",
+        "C": "2183",
+        "EXTID": "67091348",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.3",
+          "S_1X2_X": "3.45",
+          "S_1X2_2": "2.98"
+        },
+        "MKNUM": 161,
+        "GID": 1408820,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 787829172,
+        "D": "2026-06-13 16:00:00",
+        "N": "FC Dinamo Minsk - Gomel",
+        "C": "1356",
+        "EXTID": "71861630",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.57",
+          "S_1X2_X": "3.65",
+          "S_1X2_2": "6.3"
+        },
+        "MKNUM": 138,
+        "GID": 1346185,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 786222205,
+        "D": "2026-06-13 16:00:00",
+        "N": "Flora Tallinn - Levadia Tallinn",
+        "C": "1823",
+        "EXTID": "68214680",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.5",
+          "S_1X2_X": "3.65",
+          "S_1X2_2": "1.92"
+        },
+        "MKNUM": 138,
+        "GID": 1348873,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789155077,
+        "D": "2026-06-13 16:00:00",
+        "N": "Vilnius FK Zalgiris B - Garliava",
+        "C": "2224",
+        "EXTID": "69670762",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.5",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "1.86"
+        },
+        "MKNUM": 137,
+        "GID": 1364198,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789952661,
+        "D": "2026-06-13 16:00:00",
+        "N": "Uruguay Montevideo - Miramar Misiones",
+        "C": "1977",
+        "EXTID": "71932252",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.5",
+          "S_1X2_X": "3.05",
+          "S_1X2_2": "2.83"
+        },
+        "MKNUM": 54,
+        "GID": 1513082,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 785104633,
+        "D": "2026-06-13 16:30:00",
+        "N": "Coquimbo - O'Higgins",
+        "C": "1778",
+        "EXTID": "67681908",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.77",
+          "S_1X2_X": "3.55",
+          "S_1X2_2": "4.45"
+        },
+        "MKNUM": 140,
+        "GID": 1004077,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789971877,
+        "D": "2026-06-13 17:00:00",
+        "N": "Tartu Welco - FC Tallinn",
+        "C": "1101",
+        "EXTID": "68774186",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.18",
+          "S_1X2_X": "6.6",
+          "S_1X2_2": "10"
+        },
+        "MKNUM": 117,
+        "GID": 1329525,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141243,
+        "D": "2026-06-13 17:00:00",
+        "N": "Social Atletico Television - San Luis FC",
+        "C": "2824",
+        "EXTID": "71814416",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.13",
+          "S_1X2_X": "2.87",
+          "S_1X2_2": "3.35"
+        },
+        "MKNUM": 37,
+        "GID": 4593513,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788701044,
+        "D": "2026-06-13 17:30:00",
+        "N": "Ferrocarril Midland - Atlanta",
+        "C": "2205",
+        "EXTID": "67118474",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.23",
+          "S_1X2_X": "2.83",
+          "S_1X2_2": "3.6"
+        },
+        "MKNUM": 138,
+        "GID": 2088590,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789440863,
+        "D": "2026-06-13 17:30:00",
+        "N": "Villa San Carlos - UAI Urquiza",
+        "C": "2264",
+        "EXTID": "67119416",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.3",
+          "S_1X2_X": "2.9",
+          "S_1X2_2": "3.3"
+        },
+        "MKNUM": 138,
+        "GID": 8722198,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788701034,
+        "D": "2026-06-13 18:00:00",
+        "N": "Colegiales - San Martin de Tucuman",
+        "C": "2197",
+        "EXTID": "67118470",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.54",
+          "S_1X2_X": "2.75",
+          "S_1X2_2": "3.1"
+        },
+        "MKNUM": 138,
+        "GID": 2088590,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789155078,
+        "D": "2026-06-13 18:00:00",
+        "N": "NSI Runavik - B36 Torshavn",
+        "C": "2235",
+        "EXTID": "67850020",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.98",
+          "S_1X2_X": "3.7",
+          "S_1X2_2": "3.3"
+        },
+        "MKNUM": 138,
+        "GID": 1335326,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 787829170,
+        "D": "2026-06-13 18:00:00",
+        "N": "Dinamo Brest - FC Neman Grodno",
+        "C": "1305",
+        "EXTID": "71861632",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.4",
+          "S_1X2_X": "3.15",
+          "S_1X2_2": "2.98"
+        },
+        "MKNUM": 138,
+        "GID": 1346185,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788701008,
+        "D": "2026-06-13 18:30:00",
+        "N": "Nueva Chicago - Chacarita Jr.",
+        "C": "2184",
+        "EXTID": "67118460",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.44",
+          "S_1X2_X": "2.68",
+          "S_1X2_2": "3.35"
+        },
+        "MKNUM": 138,
+        "GID": 2088590,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788701014,
+        "D": "2026-06-13 18:30:00",
+        "N": "Almagro - Agropecuario Argentino",
+        "C": "2185",
+        "EXTID": "67118466",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.5",
+          "S_1X2_X": "2.85",
+          "S_1X2_2": "3.05"
+        },
+        "MKNUM": 138,
+        "GID": 2088590,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788701036,
+        "D": "2026-06-13 18:30:00",
+        "N": "Defensores de Belgrano - Colon de Santa Fe",
+        "C": "2199",
+        "EXTID": "67117748",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.55",
+          "S_1X2_X": "2.7",
+          "S_1X2_2": "3.15"
+        },
+        "MKNUM": 138,
+        "GID": 2088590,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788023772,
+        "D": "2026-06-13 18:30:00",
+        "N": "Longford Town - Cobh Ramblers",
+        "C": "1298",
+        "EXTID": "66854794",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.47",
+          "S_1X2_X": "3.25",
+          "S_1X2_2": "2.72"
+        },
+        "MKNUM": 136,
+        "GID": 1370426,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789952606,
+        "D": "2026-06-13 18:30:00",
+        "N": "CDM Leandro N. Alem - Victoriano Arenas",
+        "C": "1885",
+        "EXTID": "67123020",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.64",
+          "S_1X2_X": "2.92",
+          "S_1X2_2": "2.78"
+        },
+        "MKNUM": 138,
+        "GID": 3119357,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789952651,
+        "D": "2026-06-13 18:30:00",
+        "N": "Central Cordoba Rosario - Deportivo Espanol",
+        "C": "1941",
+        "EXTID": "67125832",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.3",
+          "S_1X2_X": "2.86",
+          "S_1X2_2": "3.35"
+        },
+        "MKNUM": 138,
+        "GID": 3119357,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789952652,
+        "D": "2026-06-13 18:30:00",
+        "N": "Deportivo Paraguayo - Justo Jose de Urquiza",
+        "C": "1947",
+        "EXTID": "67123016",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.76",
+          "S_1X2_X": "2.86",
+          "S_1X2_2": "2.7"
+        },
+        "MKNUM": 138,
+        "GID": 3119357,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 790141244,
+        "D": "2026-06-13 18:30:00",
+        "N": "El Porvenir - Atlas",
+        "C": "2826",
+        "EXTID": "71944924",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.62",
+          "S_1X2_X": "2.87",
+          "S_1X2_2": "2.87"
+        },
+        "MKNUM": 138,
+        "GID": 3119357,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789440850,
+        "D": "2026-06-13 18:30:00",
+        "N": "Defensores Unidos - Brown de Adrogue",
+        "C": "2176",
+        "EXTID": "67119402",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.3",
+          "S_1X2_X": "2.8",
+          "S_1X2_2": "3.45"
+        },
+        "MKNUM": 138,
+        "GID": 8722198,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789440855,
+        "D": "2026-06-13 18:30:00",
+        "N": "Dock Sud - Talleres de Remedios",
+        "C": "2221",
+        "EXTID": "67119406",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.3",
+          "S_1X2_X": "2.85",
+          "S_1X2_2": "2.35"
+        },
+        "MKNUM": 138,
+        "GID": 8722198,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789440856,
+        "D": "2026-06-13 18:30:00",
+        "N": "Sportivo Italiano - Excursionistas",
+        "C": "2250",
+        "EXTID": "67119412",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.83",
+          "S_1X2_X": "2.83",
+          "S_1X2_2": "2.68"
+        },
+        "MKNUM": 138,
+        "GID": 8722198,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789440858,
+        "D": "2026-06-13 18:30:00",
+        "N": "CSD Flandria - Ituzaingo",
+        "C": "2252",
+        "EXTID": "67119398",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.02",
+          "S_1X2_X": "2.95",
+          "S_1X2_2": "4.1"
+        },
+        "MKNUM": 138,
+        "GID": 8722198,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789440860,
+        "D": "2026-06-13 18:30:00",
+        "N": "Comunicaciones - CSCD Laferrere",
+        "C": "2256",
+        "EXTID": "67119404",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.08",
+          "S_1X2_X": "2.94",
+          "S_1X2_2": "3.85"
+        },
+        "MKNUM": 138,
+        "GID": 8722198,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789440862,
+        "D": "2026-06-13 18:30:00",
+        "N": "Deportivo Camioneros - Arsenal de Sarandi",
+        "C": "2261",
+        "EXTID": "67119410",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.7",
+          "S_1X2_X": "2.85",
+          "S_1X2_2": "2.18"
+        },
+        "MKNUM": 138,
+        "GID": 8722198,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 692731596,
+        "D": "2026-06-13 19:00:00",
+        "N": "Qatar - Switzerland",
+        "C": "1592",
+        "EXTID": "66456918",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "13.25",
+          "S_1X2_X": "6.6",
+          "S_1X2_2": "1.25"
+        },
+        "MKNUM": 246,
+        "GID": 2252278,
+        "EXCLUDED_BONUS": [
+          "S_1X2_2"
+        ],
+        "BOOSTED_ODDS": [
+          "S_1X2_2"
+        ],
+        "BOOSTED_MARKETS": [
+          "S_1X2"
+        ]
+      },
+      {
+        "ID": 785104635,
+        "D": "2026-06-13 19:00:00",
+        "N": "Everton Vina Del Mar - Palestino",
+        "C": "1786",
+        "EXTID": "67681906",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.64",
+          "S_1X2_X": "3.2",
+          "S_1X2_2": "2.64"
+        },
+        "MKNUM": 140,
+        "GID": 1004077,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788701019,
+        "D": "2026-06-13 19:00:00",
+        "N": "Club Ciudad de Bolivar - Deportivo Moron",
+        "C": "2190",
+        "EXTID": "67117750",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.8",
+          "S_1X2_X": "2.5",
+          "S_1X2_2": "3.1"
+        },
+        "MKNUM": 138,
+        "GID": 2088590,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789440865,
+        "D": "2026-06-13 19:00:00",
+        "N": "Amazonas FC AM - Anapolis",
+        "C": "2273",
+        "EXTID": "69255096",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.64",
+          "S_1X2_X": "3.25",
+          "S_1X2_2": "5.6"
+        },
+        "MKNUM": 54,
+        "GID": 1508114,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789358098,
+        "D": "2026-06-13 19:00:00",
+        "N": "Independiente Petrolero - Real Potosi",
+        "C": "2705",
+        "EXTID": "71937876",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.55",
+          "S_1X2_X": "4.15",
+          "S_1X2_2": "5.15"
+        },
+        "MKNUM": 138,
+        "GID": 1340265,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 789952663,
+        "D": "2026-06-13 19:00:00",
+        "N": "Colon - CA Fenix Montevideo",
+        "C": "2000",
+        "EXTID": "71932256",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.05",
+          "S_1X2_X": "2.96",
+          "S_1X2_2": "2.43"
+        },
+        "MKNUM": 54,
+        "GID": 1513082,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 788701015,
+        "D": "2026-06-13 20:00:00",
+        "N": "Quilmes Atletico - Gimnasia Y Tiro de Salta",
+        "C": "2186",
+        "EXTID": "67118472",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "2.08",
+          "S_1X2_X": "2.8",
+          "S_1X2_2": "4.1"
+        },
+        "MKNUM": 138,
+        "GID": 2088590,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 785104512,
+        "D": "2026-06-13 21:30:00",
+        "N": "Colo Colo - Cobresal",
+        "C": "1748",
+        "EXTID": "67681900",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.27",
+          "S_1X2_X": "5.8",
+          "S_1X2_2": "9"
+        },
+        "MKNUM": 140,
+        "GID": 1004077,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 692733697,
+        "D": "2026-06-13 22:00:00",
+        "N": "Brazil - Morocco",
+        "C": "4189",
+        "EXTID": "66456928",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "1.67",
+          "S_1X2_X": "3.9",
+          "S_1X2_2": "5.8"
+        },
+        "MKNUM": 247,
+        "GID": 2252278,
+        "EXCLUDED_BONUS": [
+          "S_1X2_1"
+        ],
+        "BOOSTED_ODDS": [
+          "S_1X2_1"
+        ],
+        "BOOSTED_MARKETS": [
+          "S_1X2"
+        ]
+      },
+      {
+        "ID": 789358102,
+        "D": "2026-06-13 22:00:00",
+        "N": "GV Club Deportivo San Jose de Oruro - The Strongest",
+        "C": "2707",
+        "EXTID": "71975650",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "4.3",
+          "S_1X2_X": "4",
+          "S_1X2_2": "1.67"
+        },
+        "MKNUM": 138,
+        "GID": 1340265,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      },
+      {
+        "ID": 785401291,
+        "D": "2026-06-13 22:00:00",
+        "N": "Loudoun Utd - Rhode Island FC",
+        "C": "1243",
+        "EXTID": "67172634",
+        "PRV": true,
+        "ISSTREAMINGVIDEO": false,
+        "O": {
+          "S_1X2_1": "3.45",
+          "S_1X2_X": "3.55",
+          "S_1X2_2": "1.97"
+        },
+        "MKNUM": 138,
+        "GID": 1432701,
+        "EXCLUDED_BONUS": [],
+        "BOOSTED_ODDS": [],
+        "BOOSTED_MARKETS": []
+      }
+    ],
+    "TRANS": {
+      "M#S_1X2": {
+        "NAME": "1X2",
+        "DESC": "You have to predict the outcome of the match in 90 minutes. The bet offers three possible outcomes: 1 (home team wins the match); X (teams draw), 2 (away team wins the match)"
+      },
+      "M#S_1X2_1": "1",
+      "MCU#S_1X2_1": "{T1}",
+      "M#S_1X2_X": "X",
+      "MCU#S_1X2_X": "Draw",
+      "M#S_1X2_2": "2",
+      "MCU#S_1X2_2": "{T2}"
+    }
+  }
+}

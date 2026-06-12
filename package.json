@@ -1,0 +1,20 @@
+{
+  "name": "arb-scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.17.0",
+    "chalk": "^5.6.2",
+    "dotenv": "^17.4.2",
+    "fuse.js": "^7.4.2",
+    "node-cron": "^4.2.1"
+  }
+}

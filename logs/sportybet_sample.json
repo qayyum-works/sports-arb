@@ -1,0 +1,695 @@
+{
+  "bizCode": 10000,
+  "message": "0#0",
+  "data": {
+    "totalNum": 659,
+    "tournaments": [
+      {
+        "id": "sr:tournament:505050161",
+        "name": "World Cup 2026 - Group A",
+        "events": [
+          {
+            "eventId": "sr:match:66456906",
+            "gameId": "42485",
+            "productStatus": "0#0",
+            "estimateStartTime": 1781229600000,
+            "status": 0,
+            "matchStatus": "Not start",
+            "homeTeamId": "sr:competitor:4735",
+            "homeTeamName": "Korea Republic",
+            "awayTeamName": "Czechia",
+            "awayTeamId": "sr:competitor:4714",
+            "sport": {
+              "id": "sr:sport:1",
+              "name": "Football",
+              "category": {
+                "id": "sr:category:4",
+                "name": "International",
+                "tournament": {
+                  "id": "sr:tournament:505050161",
+                  "name": "World Cup 2026 - Group A"
+                }
+              }
+            },
+            "totalMarketSize": 1006,
+            "markets": [
+              {
+                "id": "1",
+                "product": 3,
+                "desc": "1X2",
+                "status": 0,
+                "group": "Main",
+                "groupId": "171121135724MGI11262166",
+                "marketGuide": "Which team will win the match. Overtime not included.",
+                "title": "1,X,2",
+                "name": "1X2",
+                "favourite": 0,
+                "outcomes": [
+                  {
+                    "id": "1",
+                    "odds": "2.66",
+                    "probability": "0.3688610000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Home"
+                  },
+                  {
+                    "id": "2",
+                    "odds": "3.14",
+                    "probability": "0.3119800000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Draw"
+                  },
+                  {
+                    "id": "3",
+                    "odds": "3.07",
+                    "probability": "0.3191570000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Away"
+                  }
+                ],
+                "marketExtendVOS": [
+                  {
+                    "name": "1UP",
+                    "rootMarketId": "1",
+                    "nodeMarketId": "60200",
+                    "notSupport": false
+                  },
+                  {
+                    "name": "2UP",
+                    "rootMarketId": "1",
+                    "nodeMarketId": "60100",
+                    "notSupport": false
+                  }
+                ],
+                "sourceType": "BET_RADAR",
+                "lastOddsChangeTime": 1781211729152,
+                "earlyPayoutMarkets": [
+                  {
+                    "name": "1UP",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60200",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  },
+                  {
+                    "name": "2UP",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60100",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  },
+                  {
+                    "name": "one_x_two_never_down",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60210",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  }
+                ],
+                "banned": false
+              }
+            ],
+            "bookingStatus": "Booked",
+            "topTeam": true,
+            "commentsNum": 1,
+            "topicId": 69156197,
+            "fixtureVenue": {
+              "name": "Estadio Guadalajara"
+            },
+            "giftGrabActivityResultVO": {
+              "activityEnabled": false,
+              "enabled": false
+            },
+            "ai": false,
+            "bgEvent": false,
+            "matchTrackerNotAllowed": false,
+            "eventSource": {
+              "preMatchSource": {
+                "sourceType": "LSPORTS",
+                "sourceId": "m:18464126"
+              },
+              "liveSource": {
+                "sourceType": "BET_RADAR",
+                "sourceId": "66456906"
+              }
+            },
+            "containsPcbb": false,
+            "banned": false
+          },
+          {
+            "eventId": "sr:match:66456910",
+            "gameId": "16466",
+            "productStatus": "0#0",
+            "estimateStartTime": 1781798400000,
+            "status": 0,
+            "matchStatus": "Not start",
+            "homeTeamId": "sr:competitor:4714",
+            "homeTeamName": "Czechia",
+            "awayTeamName": "South Africa",
+            "awayTeamId": "sr:competitor:4736",
+            "sport": {
+              "id": "sr:sport:1",
+              "name": "Football",
+              "category": {
+                "id": "sr:category:4",
+                "name": "International",
+                "tournament": {
+                  "id": "sr:tournament:505050161",
+                  "name": "World Cup 2026 - Group A"
+                }
+              }
+            },
+            "totalMarketSize": 332,
+            "markets": [
+              {
+                "id": "1",
+                "product": 3,
+                "desc": "1X2",
+                "status": 0,
+                "group": "Main",
+                "groupId": "171121135724MGI11262166",
+                "marketGuide": "Which team will win the match. Overtime not included.",
+                "title": "1,X,2",
+                "name": "1X2",
+                "favourite": 0,
+                "outcomes": [
+                  {
+                    "id": "1",
+                    "odds": "1.70",
+                    "probability": "0.5804850000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Home"
+                  },
+                  {
+                    "id": "2",
+                    "odds": "3.89",
+                    "probability": "0.2502350000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Draw"
+                  },
+                  {
+                    "id": "3",
+                    "odds": "5.74",
+                    "probability": "0.1692800000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Away"
+                  }
+                ],
+                "marketExtendVOS": [
+                  {
+                    "name": "1UP",
+                    "rootMarketId": "1",
+                    "nodeMarketId": "60200",
+                    "notSupport": false
+                  },
+                  {
+                    "name": "2UP",
+                    "rootMarketId": "1",
+                    "nodeMarketId": "60100",
+                    "notSupport": false
+                  }
+                ],
+                "sourceType": "BET_RADAR",
+                "lastOddsChangeTime": 1781212155581,
+                "earlyPayoutMarkets": [
+                  {
+                    "name": "1UP",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60200",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  },
+                  {
+                    "name": "2UP",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60100",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  },
+                  {
+                    "name": "one_x_two_never_down",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60210",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  }
+                ],
+                "banned": false
+              }
+            ],
+            "bookingStatus": "Booked",
+            "topTeam": false,
+            "commentsNum": 0,
+            "topicId": 26853289,
+            "fixtureVenue": {
+              "name": "Atlanta Stadium"
+            },
+            "giftGrabActivityResultVO": {
+              "activityEnabled": false,
+              "enabled": false
+            },
+            "ai": false,
+            "bgEvent": false,
+            "matchTrackerNotAllowed": false,
+            "eventSource": {
+              "preMatchSource": {
+                "sourceType": "BET_RADAR",
+                "sourceId": "66456910"
+              },
+              "liveSource": {
+                "sourceType": "BET_RADAR",
+                "sourceId": "66456910"
+              }
+            },
+            "containsPcbb": false,
+            "banned": false
+          },
+          {
+            "eventId": "sr:match:66456908",
+            "gameId": "25432",
+            "productStatus": "0#0",
+            "estimateStartTime": 1781830800000,
+            "status": 0,
+            "matchStatus": "Not start",
+            "homeTeamId": "sr:competitor:4781",
+            "homeTeamName": "Mexico",
+            "awayTeamName": "Korea Republic",
+            "awayTeamId": "sr:competitor:4735",
+            "sport": {
+              "id": "sr:sport:1",
+              "name": "Football",
+              "category": {
+                "id": "sr:category:4",
+                "name": "International",
+                "tournament": {
+                  "id": "sr:tournament:505050161",
+                  "name": "World Cup 2026 - Group A"
+                }
+              }
+            },
+            "totalMarketSize": 326,
+            "markets": [
+              {
+                "id": "1",
+                "product": 3,
+                "desc": "1X2",
+                "status": 0,
+                "group": "Main",
+                "groupId": "171121135724MGI11262166",
+                "marketGuide": "Which team will win the match. Overtime not included.",
+                "title": "1,X,2",
+                "name": "1X2",
+                "favourite": 0,
+                "outcomes": [
+                  {
+                    "id": "1",
+                    "odds": "1.89",
+                    "probability": "0.5205140000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Home"
+                  },
+                  {
+                    "id": "2",
+                    "odds": "3.62",
+                    "probability": "0.2698660000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Draw"
+                  },
+                  {
+                    "id": "3",
+                    "odds": "4.65",
+                    "probability": "0.2096200000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Away"
+                  }
+                ],
+                "marketExtendVOS": [
+                  {
+                    "name": "1UP",
+                    "rootMarketId": "1",
+                    "nodeMarketId": "60200",
+                    "notSupport": false
+                  },
+                  {
+                    "name": "2UP",
+                    "rootMarketId": "1",
+                    "nodeMarketId": "60100",
+                    "notSupport": false
+                  }
+                ],
+                "sourceType": "BET_RADAR",
+                "lastOddsChangeTime": 1781226080244,
+                "earlyPayoutMarkets": [
+                  {
+                    "name": "1UP",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60200",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  },
+                  {
+                    "name": "2UP",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60100",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  },
+                  {
+                    "name": "one_x_two_never_down",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60210",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  }
+                ],
+                "banned": false
+              }
+            ],
+            "bookingStatus": "Booked",
+            "topTeam": false,
+            "commentsNum": 0,
+            "topicId": 15894598,
+            "fixtureVenue": {
+              "name": "Estadio Guadalajara"
+            },
+            "giftGrabActivityResultVO": {
+              "activityEnabled": false,
+              "enabled": false
+            },
+            "ai": false,
+            "bgEvent": false,
+            "matchTrackerNotAllowed": false,
+            "eventSource": {
+              "preMatchSource": {
+                "sourceType": "BET_RADAR",
+                "sourceId": "66456908"
+              },
+              "liveSource": {
+                "sourceType": "BET_RADAR",
+                "sourceId": "66456908"
+              }
+            },
+            "containsPcbb": false,
+            "banned": false
+          },
+          {
+            "eventId": "sr:match:66456912",
+            "gameId": "36412",
+            "productStatus": "0#0",
+            "estimateStartTime": 1782349200000,
+            "status": 0,
+            "matchStatus": "Not start",
+            "homeTeamId": "sr:competitor:4714",
+            "homeTeamName": "Czechia",
+            "awayTeamName": "Mexico",
+            "awayTeamId": "sr:competitor:4781",
+            "sport": {
+              "id": "sr:sport:1",
+              "name": "Football",
+              "category": {
+                "id": "sr:category:4",
+                "name": "International",
+                "tournament": {
+                  "id": "sr:tournament:505050161",
+                  "name": "World Cup 2026 - Group A"
+                }
+              }
+            },
+            "totalMarketSize": 307,
+            "markets": [
+              {
+                "id": "1",
+                "product": 3,
+                "desc": "1X2",
+                "status": 0,
+                "group": "Main",
+                "groupId": "171121135724MGI11262166",
+                "marketGuide": "Which team will win the match. Overtime not included.",
+                "title": "1,X,2",
+                "name": "1X2",
+                "favourite": 0,
+                "outcomes": [
+                  {
+                    "id": "1",
+                    "odds": "4.79",
+                    "probability": "0.2031960000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Home"
+                  },
+                  {
+                    "id": "2",
+                    "odds": "3.71",
+                    "probability": "0.2629850000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Draw"
+                  },
+                  {
+                    "id": "3",
+                    "odds": "1.85",
+                    "probability": "0.5338140000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Away"
+                  }
+                ],
+                "marketExtendVOS": [
+                  {
+                    "name": "1UP",
+                    "rootMarketId": "1",
+                    "nodeMarketId": "60200",
+                    "notSupport": false
+                  },
+                  {
+                    "name": "2UP",
+                    "rootMarketId": "1",
+                    "nodeMarketId": "60100",
+                    "notSupport": false
+                  }
+                ],
+                "sourceType": "BET_RADAR",
+                "lastOddsChangeTime": 1781226094035,
+                "earlyPayoutMarkets": [
+                  {
+                    "name": "1UP",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60200",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  },
+                  {
+                    "name": "2UP",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60100",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  },
+                  {
+                    "name": "one_x_two_never_down",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60210",
+                    "mappedSpecifier": "",
+                    "supported": false
+                  }
+                ],
+                "banned": false
+              }
+            ],
+            "bookingStatus": "Booked",
+            "topTeam": false,
+            "commentsNum": 0,
+            "topicId": 42723751,
+            "fixtureVenue": {
+              "name": "Mexico City Stadium"
+            },
+            "giftGrabActivityResultVO": {
+              "activityEnabled": false,
+              "enabled": false
+            },
+            "ai": false,
+            "bgEvent": false,
+            "matchTrackerNotAllowed": false,
+            "eventSource": {
+              "preMatchSource": {
+                "sourceType": "BET_RADAR",
+                "sourceId": "66456912"
+              },
+              "liveSource": {
+                "sourceType": "BET_RADAR",
+                "sourceId": "66456912"
+              }
+            },
+            "containsPcbb": false,
+            "banned": false
+          }
+        ],
+        "categoryName": "International",
+        "categoryId": "sr:category:4"
+      },
+      {
+        "id": "sr:tournament:505050164",
+        "name": "World Cup 2026 - Group D",
+        "events": [
+          {
+            "eventId": "sr:match:66456940",
+            "gameId": "41541",
+            "productStatus": "0#0",
+            "estimateStartTime": 1781312400000,
+            "status": 0,
+            "matchStatus": "Not start",
+            "homeTeamId": "sr:competitor:4724",
+            "homeTeamName": "USA",
+            "awayTeamName": "Paraguay",
+            "awayTeamId": "sr:competitor:4789",
+            "sport": {
+              "id": "sr:sport:1",
+              "name": "Football",
+              "category": {
+                "id": "sr:category:4",
+                "name": "International",
+                "tournament": {
+                  "id": "sr:tournament:505050164",
+                  "name": "World Cup 2026 - Group D"
+                }
+              }
+            },
+            "totalMarketSize": 952,
+            "markets": [
+              {
+                "id": "1",
+                "product": 3,
+                "desc": "1X2",
+                "status": 0,
+                "group": "Main",
+                "groupId": "171121135724MGI11262166",
+                "marketGuide": "Which team will win the match. Overtime not included.",
+                "title": "1,X,2",
+                "name": "1X2",
+                "favourite": 0,
+                "outcomes": [
+                  {
+                    "id": "1",
+                    "odds": "1.99",
+                    "probability": "0.4956790000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Home"
+                  },
+                  {
+                    "id": "2",
+                    "odds": "3.50",
+                    "probability": "0.2789350000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Draw"
+                  },
+                  {
+                    "id": "3",
+                    "odds": "4.33",
+                    "probability": "0.2253820000",
+                    "voidProbability": "0E-10",
+                    "isActive": 1,
+                    "desc": "Away"
+                  }
+                ],
+                "marketExtendVOS": [
+                  {
+                    "name": "1UP",
+                    "rootMarketId": "1",
+                    "nodeMarketId": "60200",
+                    "notSupport": false
+                  },
+                  {
+                    "name": "2UP",
+                    "rootMarketId": "1",
+                    "nodeMarketId": "60100",
+                    "notSupport": false
+                  }
+                ],
+                "sourceType": "BET_RADAR",
+                "lastOddsChangeTime": 1781226080640,
+                "earlyPayoutMarkets": [
+                  {
+                    "name": "1UP",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60200",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  },
+                  {
+                    "name": "2UP",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60100",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  },
+                  {
+                    "name": "one_x_two_never_down",
+                    "sourceMarketId": "1",
+                    "sourceSpecifier": "",
+                    "mappedMarketId": "60210",
+                    "mappedSpecifier": "",
+                    "supported": true
+                  }
+                ],
+                "banned": false
+              }
+            ],
+            "bookingStatus": "Booked",
+            "topTeam": true,
+            "commentsNum": 0,
+            "topicId": 2867469,
+            "fixtureVenue": {
+              "name": "Los Angeles Stadium"
+            },
+            "giftGrabActivityResultVO": {
+              "activityEnabled": false,
+              "enabled": false
+            },
+            "ai": false,
+            "bgEvent": false,
+            "matchTrackerNotAllowed": false,
+            "eventSource": {
+              "preMatchSource": {
+                "sourceType": "LSPORTS",
+                "sourceId": "m:17431441"
+              },
+              "liveSource": {
+                "sourceType": "BET_RADAR",
+                "sourceId": "66456940"
+              }
+            },
+            "containsPcbb": false,
+            "banned": false
+          }
+        ],
+        "categoryName": "International",
+        "categoryId": "sr:category:4"
+      }
+    ]
+  }
+}
