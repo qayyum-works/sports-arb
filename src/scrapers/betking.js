@@ -1,34 +1,29 @@
-const axios = require("axios");
+const axios = require('axios');
 
 async function getUpcomingMatches() {
   try {
     const res = await axios.get(
-      "https://sportsapicdn-desktop.betking.com/api/feeds/prematch/lastminute/en/1/100/",
+      'https://sportsapicdn-desktop.betking.com/api/feeds/prematch/lastminute/en/1/150/',
       {
         headers: {
-          "User-Agent":
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          Referer: "https://www.betking.com/sports/s/football/",
-          Origin: "https://www.betking.com",
-          Accept: "application/json, text/plain, */*",
-          "Accept-Language": "en-NG,en;q=0.9",
-          "Sec-Fetch-Mode": "cors",
-          "Sec-Fetch-Site": "same-site",
+          'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+          'Referer': 'https://www.betking.com/sports/s/football/',
+          'Accept': 'application/json'
         },
-        timeout: 15000,
-      },
+        timeout: 15000
+      }
     );
 
     const areaMatches = res.data?.AreaMatches || [];
     const matches = [];
 
     for (const area of areaMatches) {
-      if (area.SportName !== "Football") continue;
+      if (area.SportName !== 'Football') continue;
 
       for (const item of area.Items || []) {
         try {
           // Split "Team A - Team B" on first " - "
-          const sepIndex = item.ItemName.indexOf(" - ");
+          const sepIndex = item.ItemName.indexOf(' - ');
           if (sepIndex === -1) continue;
 
           const home = item.ItemName.substring(0, sepIndex).trim();
@@ -36,7 +31,7 @@ async function getUpcomingMatches() {
 
           // Find 1X2 odds collection
           const oddsCollection = item.OddsCollection?.find(
-            (oc) => oc.OddsType?.OddsTypeName === "1X2",
+            oc => oc.OddsType?.OddsTypeName === '1X2'
           );
           if (!oddsCollection) continue;
 
@@ -49,9 +44,9 @@ async function getUpcomingMatches() {
             }
           }
 
-          const homeOdds = parseFloat(seen["1"]);
-          const drawOdds = parseFloat(seen["X"]);
-          const awayOdds = parseFloat(seen["2"]);
+          const homeOdds = parseFloat(seen['1']);
+          const drawOdds = parseFloat(seen['X']);
+          const awayOdds = parseFloat(seen['2']);
 
           if (!homeOdds || !awayOdds) continue;
 
@@ -60,18 +55,18 @@ async function getUpcomingMatches() {
             away,
             kickoff: new Date(item.ItemDate).toISOString(),
             odds: { home: homeOdds, draw: drawOdds || null, away: awayOdds },
-            source: "BetKing",
+            source: 'BetKing'
           });
-        } catch (_) {
-          continue;
-        }
+
+        } catch (_) { continue; }
       }
     }
 
     console.log(`✅ BetKing: ${matches.length} matches`);
     return matches;
+
   } catch (err) {
-    console.error("BetKing API error:", err.message);
+    console.error('BetKing API error:', err.message);
     return [];
   }
 }

@@ -28,28 +28,25 @@ function isSameMatch(a, b, timeToleranceMins = 90) {
 
 // Fuzzy fallback for slightly different name spellings
 function fuzzyIsSameMatch(a, b, timeToleranceMins = 90) {
-  // Exact check first
   if (isSameMatch(a, b, timeToleranceMins)) return true;
-
-  // Fuzzy check using Fuse
-  const fuse = new Fuse([b], {
-    keys: ['home', 'away'],
-    threshold: 0.3,
-    includeScore: true
-  });
-
-  const homeScore = fuse.search(cleanName(a.home));
-  const awayScore = fuse.search(cleanName(a.away));
 
   const timeA = new Date(a.kickoff).getTime();
   const timeB = new Date(b.kickoff).getTime();
   const diffMins = Math.abs(timeA - timeB) / 60000;
 
-  return (
-    diffMins <= timeToleranceMins &&
-    cleanName(a.home).includes(cleanName(b.home).split(' ')[0]) &&
-    cleanName(a.away).includes(cleanName(b.away).split(' ')[0])
-  );
+  if (diffMins > timeToleranceMins) return false;
+
+  // Real fuzzy scoring — lower score = better match (Fuse convention)
+  const homeFuse = new Fuse([cleanName(b.home)], { includeScore: true, threshold: 0.6 });
+  const awayFuse = new Fuse([cleanName(b.away)], { includeScore: true, threshold: 0.6 });
+
+  const homeResult = homeFuse.search(cleanName(a.home));
+  const awayResult = awayFuse.search(cleanName(a.away));
+
+  const homeOk = homeResult.length > 0 && homeResult[0].score <= 0.4;
+  const awayOk = awayResult.length > 0 && awayResult[0].score <= 0.4;
+
+  return homeOk && awayOk;
 }
 
 // Merge matches from multiple sources into unified events
